@@ -51,7 +51,13 @@ async function showStations(url) {
         onEachFeature: function(feature, layer) {
             let prop = feature.properties;
             layer.bindPopup(`
-                <h4><a href="${prop.WEITERE_INF}" target="Wien">${prop.NAME}</a></h4>
+                <h4>${prop.name} ${feature.geometry.coordinates}</h4>
+                <ul>
+                <li> Luftfeuchtigkeit in °C: ${prop.LT||"keine Angabe"}
+                <li> Relative Luftfeuchtigkeit in %: ${prop.RH||"keine Angabe"}
+                <li> Windgeschwindigkeit in km/h: ${prop.WG||"keine Angabe"}
+                <li> Schneehöhe in cm: ${prop.HS||"keine Angabe"} </li>
+                </ul>
             `);
             //console.log(feature.properties, prop.NAME);
         }
