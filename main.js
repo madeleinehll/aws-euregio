@@ -38,8 +38,7 @@ L.control.scale({
 async function showStations(url) {
     let response = await fetch(url);
     let jsondata = await response.json();
-};
-    L.geoJSON(jsondata, {
+    L.geoJSON(jsondata,{
         pointToLayer: function(feature, latlng) {
             return L.marker(latlng, {
                 icon: L.icon({
@@ -56,5 +55,6 @@ async function showStations(url) {
             `);
             //console.log(feature.properties, prop.NAME);
         }
-   .addTo(themaLayer.stations)});
-showStations("https://wiski.tirol.gv.at/lawine/produkte/ogd.geojson");
+    }).addTo(themaLayer.stations)
+}
+showStations("https://static.avalanche.report/weather_stations/stations.geojson");
