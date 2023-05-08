@@ -38,27 +38,27 @@ L.control.scale({
 async function showStations(url) {
     let response = await fetch(url);
     let jsondata = await response.json();
-    L.geoJSON(jsondata,{
-        pointToLayer: function(feature, latlng) {
+    L.geoJSON(jsondata, {
+        pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: L.icon({
-                    iconUrl: "icons/wifi.png",
-                    iconSize: [32,37],
+                    iconUrl: "icons/icons.png",
+                    iconSize: [32, 37],
                     iconAnchor: [16, 37],
                     popupAnchor: [0, -37],
                 })
             });
         },
-        onEachFeature: function(feature, layer) {
+        onEachFeature: function (feature, layer) {
             let prop = feature.properties;
             let sealevel = feature.geometry.coordinates
             layer.bindPopup(`
                 <h4>${prop.name} ${sealevel[2]} m ü. NN</h4>
                 <ul>
-                <li> Luftfeuchtigkeit in °C: ${prop.LT||"keine Angabe"}
-                <li> Relative Luftfeuchtigkeit in %: ${prop.RH||"keine Angabe"}
-                <li> Windgeschwindigkeit in km/h: ${prop.WG||"keine Angabe"}
-                <li> Schneehöhe in cm: ${prop.HS||"keine Angabe"} </li>
+                <li> Luftfeuchtigkeit in °C: ${prop.LT || "keine Angabe"}
+                <li> Relative Luftfeuchtigkeit in %: ${prop.RH || "keine Angabe"}
+                <li> Windgeschwindigkeit in km/h: ${prop.WG || "keine Angabe"}
+                <li> Schneehöhe in cm: ${prop.HS || "keine Angabe"} </li>
                 </ul>
             `);
             //console.log(feature.properties, prop.NAME);
