@@ -34,12 +34,27 @@ L.control.scale({
     imperial: false,
 }).addTo(map);
 
-// Vienna Sightseeing Haltestellen
+// Wetterstationen bearbeiten
 async function showStations(url) {
     let response = await fetch(url);
     let jsondata = await response.json();
-
-    // Wetterstationen mit Icons und Popups implementieren
-
-}
-showStations("https://static.avalanche.report/weather_stations/stations.geojson");
+};
+    L.geoJSON(jsondata, {
+        pointToLayer: function(feature, latlng) {
+            return L.marker(latlng, {
+                icon: L.icon({
+                    iconUrl: "icons/wifi.png",
+                    iconAnchor: [16, 37],
+                    popupAnchor: [0, -37],
+                })
+            });
+        },
+        onEachFeature: function(feature, layer) {
+            let prop = feature.properties;
+            layer.bindPopup(`
+                <h4><a href="${prop.WEITERE_INF}" target="Wien">${prop.NAME}</a></h4>
+            `);
+            //console.log(feature.properties, prop.NAME);
+        }
+   .addTo(themaLayer.stations)});
+showStations("https://wiski.tirol.gv.at/lawine/produkte/ogd.geojson");
