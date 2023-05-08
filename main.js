@@ -43,6 +43,7 @@ async function showStations(url) {
             return L.marker(latlng, {
                 icon: L.icon({
                     iconUrl: "icons/wifi.png",
+                    iconSize: [32,37],
                     iconAnchor: [16, 37],
                     popupAnchor: [0, -37],
                 })
@@ -50,8 +51,9 @@ async function showStations(url) {
         },
         onEachFeature: function(feature, layer) {
             let prop = feature.properties;
+            let sealevel = feature.geometry.coordinates
             layer.bindPopup(`
-                <h4>${prop.name} ${feature.geometry.coordinates}</h4>
+                <h4>${prop.name} ${sealevel[2]} m ü. NN</h4>
                 <ul>
                 <li> Luftfeuchtigkeit in °C: ${prop.LT||"keine Angabe"}
                 <li> Relative Luftfeuchtigkeit in %: ${prop.RH||"keine Angabe"}
