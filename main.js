@@ -109,11 +109,11 @@ function writeWindLayer (jsondata) {
         }
     },
     pointToLayer: function (feature, latlng) {
-        let color = getColor(feature.properties.WG*3.6, COLORS.wind);
+        let color = getColor(feature.properties.WG, COLORS.wind);
         return L.marker(latlng, {
             icon: L.divIcon({
                 className: "aws-div-icon",
-                html: `<span style="background-color:${color}">${(feature.properties.WG*3.6).toFixed(1)}</span>`
+                html: `<span style="background-color:${color}">${(feature.properties.WG).toFixed(1)}</span>`
             })
         });
     },
