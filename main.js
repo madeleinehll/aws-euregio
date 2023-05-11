@@ -31,12 +31,21 @@ let layerControl = L.control.layers({
     "Temperatur": themaLayer.temperature.addTo(map)
 }).addTo(map);
 
-layerControl.expand();
+layerControl.expand(); //Layer Control immer offen beim öffnen der Webseite, sobald drüber fahren geht es wieder weg
 
 // Maßstab
 L.control.scale({
     imperial: false,
 }).addTo(map);
+
+function getColor(value, ramp) {
+    for (let rule of ramp) {
+        if (value >= rule.min && value < rule.max) {
+            return rule.color;
+        }
+    }
+}
+//console.log(getColor(-40,COLORS.temperature));
 
 function writeStationLayer(jsondata) {
     // Wetterstationen bearbeiten
@@ -74,7 +83,7 @@ function writeStationLayer(jsondata) {
 function writeTemperatureLayer(jsondata) {
     L.geoJSON(jsondata, {
         filter: function (feature) {
-            if(feature.properties.LT > -50 && feature.properties.LT < 50) {
+            if (feature.properties.LT > -50 && feature.properties.LT < 50) {
                 return true;
             }
         },
