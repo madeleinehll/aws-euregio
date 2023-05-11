@@ -104,16 +104,16 @@ function writeTemperatureLayer(jsondata) {
 function writeWindLayer (jsondata) { 
     L.geoJSON(jsondata, {
     filter: function (feature) {
-        if (feature.properties.WG > 0 && feature.properties.WG < 120) {
+        if (feature.properties.WG >= 0 && feature.properties.WG < 120) {
             return true;
         }
     },
     pointToLayer: function (feature, latlng) {
-        let color = getColor(feature.properties.WG, COLORS.wind);
+        let color = getColor(feature.properties.WG*3.6, COLORS.wind);
         return L.marker(latlng, {
             icon: L.divIcon({
                 className: "aws-div-icon",
-                html: `<span style="background-color:${color}">${feature.properties.WG.toFixed(1)}</span>`
+                html: `<span style="background-color:${color}">${(feature.properties.WG*3.6).toFixed(1)}</span>`
             })
         });
     },
