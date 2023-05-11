@@ -36,8 +36,8 @@ L.control.scale({
     imperial: false,
 }).addTo(map);
 
-function writeStationLayer (jsondata) {
-// Wetterstationen bearbeiten
+function writeStationLayer(jsondata) {
+    // Wetterstationen bearbeiten
     L.geoJSON(jsondata, {
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
@@ -59,7 +59,7 @@ function writeStationLayer (jsondata) {
                 <ul>
                 <li> Luftfeuchtigkeit in °C: ${prop.LT || "keine Angabe"}
                 <li> Relative Luftfeuchtigkeit in %: ${prop.RH || "keine Angabe"}
-                <li> Windgeschwindigkeit in km/h: ${prop.WG ? (prop.WG*3.6).toFixed (1):"keine Angabe"}
+                <li> Windgeschwindigkeit in km/h: ${prop.WG ? (prop.WG * 3.6).toFixed(1) : "keine Angabe"}
                 <li> Schneehöhe in cm: ${prop.HS || "keine Angabe"} </li>
                 </ul>
                 <span>${pointInTime.toLocaleString()}</span>
@@ -68,11 +68,28 @@ function writeStationLayer (jsondata) {
         }
     }).addTo(themaLayer.stations)
 }
+
+function writeTemperatureLayer(jsondata) {
+    L.geoJSON(jsondata, {
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {
+                icon: L.divIcon({
+                    className: "aws-div-icon",
+                    html: `<span>${feature.properties.LT}</span>`
+                })
+            });
+        },
+    }).addTo(themaLayer.temperature);
+
+}
 async function loadStations(url) {
     let response = await fetch(url);
     let jsondata = await response.json();
     writeStationLayer(jsondata);
+    writeTemperatureLayer(jsondata);
 }
+
+
 loadStations("https://static.avalanche.report/weather_stations/stations.geojson");
 
 
