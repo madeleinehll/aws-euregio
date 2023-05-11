@@ -13,9 +13,9 @@ let map = L.map("map", {
 
 // thematische Layer
 let themaLayer = {
-    stations: L.featureGroup()
+    stations: L.featureGroup(),
+    temperature: L.featureGroup()
 }
-
 // Hintergrundlayer
 let layerControl = L.control.layers({
     "Relief avalanche.report": L.tileLayer(
@@ -27,7 +27,8 @@ let layerControl = L.control.layers({
     "Esri WorldTopoMap": L.tileLayer.provider("Esri.WorldTopoMap"),
     "Esri WorldImagery": L.tileLayer.provider("Esri.WorldImagery")
 }, {
-    "Wetterstationen": themaLayer.stations.addTo(map)
+    "Wetterstationen": themaLayer.stations.addTo(map),
+    "Temperatur": themaLayer.temperature.addTo(map)
 }).addTo(map);
 
 // Maßstab
@@ -35,10 +36,8 @@ L.control.scale({
     imperial: false,
 }).addTo(map);
 
+function writeStationLayer (jsondata) {
 // Wetterstationen bearbeiten
-async function showStations(url) {
-    let response = await fetch(url);
-    let jsondata = await response.json();
     L.geoJSON(jsondata, {
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
@@ -69,4 +68,12 @@ async function showStations(url) {
         }
     }).addTo(themaLayer.stations)
 }
-showStations("https://static.avalanche.report/weather_stations/stations.geojson");
+async function loadStations(url) {
+    let response = await fetch(url);
+    let jsondata = await response.json();
+    writeStationLayer(jsondata);
+}
+loadStations("https://static.avalanche.report/weather_stations/stations.geojson");
+
+
+
