@@ -20,7 +20,8 @@ let themaLayer = {
 let layerControl = L.control.layers({
     "Relief avalanche.report": L.tileLayer(
         "https://static.avalanche.report/tms/{z}/{x}/{y}.webp", {
-        attribution: `© <a href="https://lawinen.report">CC BY avalanche.report</a>`
+        attribution: `© <a href="https://lawinen.report">CC BY avalanche.report</a>`,
+        maxZoom: 12
     }).addTo(map),
     "Openstreetmap": L.tileLayer.provider("OpenStreetMap.Mapnik"),
     "Esri WorldTopoMap": L.tileLayer.provider("Esri.WorldTopoMap"),
@@ -51,6 +52,8 @@ async function showStations(url) {
         },
         onEachFeature: function (feature, layer) {
             let prop = feature.properties;
+            let pointInTime = new Date(prop.date);
+            console.log(pointInTime);
             let sealevel = feature.geometry.coordinates
             layer.bindPopup(`
                 <h4>${prop.name} ${sealevel[2]} m ü. NN</h4>
@@ -60,6 +63,7 @@ async function showStations(url) {
                 <li> Windgeschwindigkeit in km/h: ${prop.WG || "keine Angabe"}
                 <li> Schneehöhe in cm: ${prop.HS || "keine Angabe"} </li>
                 </ul>
+                <span>${pointInTime.toLocaleString()}</span>
             `);
             //console.log(feature.properties, prop.NAME);
         }
