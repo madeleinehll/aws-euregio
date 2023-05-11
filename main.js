@@ -60,12 +60,12 @@ async function showStations(url) {
                 <ul>
                 <li> Luftfeuchtigkeit in °C: ${prop.LT || "keine Angabe"}
                 <li> Relative Luftfeuchtigkeit in %: ${prop.RH || "keine Angabe"}
-                <li> Windgeschwindigkeit in km/h: ${prop.WG || "keine Angabe"}
+                <li> Windgeschwindigkeit in km/h: ${prop.WG ? (prop.WG*3.6).toFixed (1):"keine Angabe"}
                 <li> Schneehöhe in cm: ${prop.HS || "keine Angabe"} </li>
                 </ul>
                 <span>${pointInTime.toLocaleString()}</span>
             `);
-            //console.log(feature.properties, prop.NAME);
+
         }
     }).addTo(themaLayer.stations)
 }
