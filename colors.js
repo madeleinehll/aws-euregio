@@ -86,4 +86,39 @@ const COLORS = {
             color:"#ff3232"
         }
     ],
+    snow: [
+        {
+            min:1,
+            max:10,
+            color:"#ffff64"
+        },{
+            min:10,
+            max:25,
+            color:"#c8ff64"
+        },{
+            min:25,
+            max:50,
+            color:"#96ff96"
+        },{
+            min:50,
+            max:100,
+            color:"#32c8ff"
+        },{
+            min:100,
+            max:200,
+            color:"#6496ff"
+        },{
+            min:200,
+            max:300,
+            color:"#9664ff"
+        },{
+            min:300,
+            max:400,
+            color:"#ff3232"
+        },{
+            min:400,
+            max:800,
+            color:"#ff3232"
+        }
+    ],
 }
