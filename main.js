@@ -16,6 +16,7 @@ let themaLayer = {
     stations: L.featureGroup(),
     temperature: L.featureGroup(),
     wind: L.featureGroup(),
+    snow: L.featureGroup(),
 }
 // Hintergrundlayer
 let layerControl = L.control.layers({
@@ -31,6 +32,7 @@ let layerControl = L.control.layers({
     "Wetterstationen": themaLayer.stations,
     "Temperatur": themaLayer.temperature.addTo(map),
     "Wind": themaLayer.wind.addTo(map),
+    "Schneehöhe": themaLayer.snow.addTo(map),
 }).addTo(map);
 
 layerControl.expand(); //Layer Control immer offen beim öffnen der Webseite, sobald drüber fahren geht es wieder weg
