@@ -122,12 +122,32 @@ function writeWindLayer (jsondata) {
 }).addTo(themaLayer.wind);
 }
 
+function writeSnowLayer(jsondata) {
+    L.geoJSON(jsondata, {
+        filter: function (feature) {
+            if (feature.properties.HS > 0 && feature.properties.HS < 800) {
+                return true;
+            }
+        },
+        pointToLayer: function (feature, latlng) {
+            let color = getColor(feature.properties.HS, COLORS.snow);
+            return L.marker(latlng, {
+                icon: L.divIcon({
+                    className: "aws-div-icon",
+                    html: `<span style="background-color:${color}">${feature.properties.HS.toFixed(1)}</span>`
+                })
+            });
+        },
+    }).addTo(themaLayer.snow);
+
+}
 async function loadStations(url) {
     let response = await fetch(url);
     let jsondata = await response.json();
     writeStationLayer(jsondata);
     writeTemperatureLayer(jsondata);
     writeWindLayer(jsondata);
+    writeSnowLayer(jsondata);
 }
 
 
