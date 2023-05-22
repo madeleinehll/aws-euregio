@@ -1,0 +1,5470 @@
+{
+  "features": [
+    {
+      "id": "028f3167-5aa0-3ca4-b63b-52e0621f3a32",
+      "geometry": {
+        "coordinates": [
+          11.1109,
+          46.9772,
+          3160.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 0.700,
+        "LT_MAX": 5.000,
+        "LT_MIN": -1.200,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "RH": 97.900,
+        "TD": 0.407,
+        "WG": 5.742,
+        "WG_BOE": 10.944,
+        "WR": 163.681,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Schaufeljoch",
+        "operator": "LWD Tirol",
+        "plot": "schaufeljoch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "02cc5845-5c98-46fb-04e2-d9b2a7678a53",
+      "geometry": {
+        "coordinates": [
+          11.751717,
+          47.181266,
+          2020.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 22.200,
+        "HSD24": -7.700,
+        "HSD48": -15.137,
+        "HSD72": -23.304,
+        "LT": 6.000,
+        "LT_MAX": 9.000,
+        "LT_MIN": 3.000,
+        "LWD-Region": "AT-07-16 Östliche Tuxer Alpen",
+        "OFT": -0.500,
+        "RH": 99.700,
+        "TD": 5.957,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Lämmerbichlalm",
+        "operator": "LWD Tirol",
+        "plot": "laemmerbichlalm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "034270c2-12eb-4d7c-6a54-510d9cd97a1c",
+      "geometry": {
+        "coordinates": [
+          12.3749783181498,
+          47.0175648750152,
+          1340.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 12.033,
+        "LT_MAX": 17.167,
+        "LT_MIN": 8.533,
+        "LWD-Region": "AT-07-24 Venedigergruppe",
+        "TD": 11.932,
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Prägraten am Großvenediger",
+        "operator": "HD Tirol",
+        "plot": "praegraten"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "03c7082d-58b8-235e-8824-771427b02cc5",
+      "geometry": {
+        "coordinates": [
+          10.46958,
+          47.085668,
+          1027.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 15.300,
+        "LT_MAX": 21.800,
+        "LT_MIN": 9.200,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "N24": 4.000,
+        "N48": 4.000,
+        "N6": 0.000,
+        "N72": 11.000,
+        "RH": 67.000,
+        "TD": 9.000,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "See im Paznaun",
+        "operator": "HD Tirol",
+        "plot": "see_im_paznaun"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "0541f1ca-e329-9bf9-09e0-a67ad313b535",
+      "geometry": {
+        "coordinates": [
+          10.928658,
+          46.923988,
+          3370.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 4.300,
+        "LT_MAX": 8.300,
+        "LT_MIN": -0.100,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "RH": 85.600,
+        "TD": 2.105,
+        "WG": 0.463,
+        "WG_BOE": 12.168,
+        "WR": 191.250,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Schwarze Schneid",
+        "operator": "LWD Tirol",
+        "plot": "rettenbach"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "089a933f-6efd-4c92-822b-fa65fef32380",
+      "geometry": {
+        "coordinates": [
+          10.190156,
+          46.984781,
+          2431.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 145.800,
+        "HSD24": -6.600,
+        "HSD48": -14.063,
+        "HSD72": -18.900,
+        "LT": 8.100,
+        "LT_MAX": 11.800,
+        "LT_MIN": 2.400,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "RH": 78.900,
+        "TD": 4.666,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Adamsberg",
+        "operator": "LWD Tirol",
+        "plot": "adamsberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "092dabe3-a4b7-db2d-6b29-e66cba4f4485",
+      "geometry": {
+        "coordinates": [
+          11.383623,
+          47.312079,
+          2270.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.700,
+        "LT_MAX": 9.700,
+        "LT_MIN": 3.900,
+        "LWD-Region": "AT-07-04-01 Westliches Karwendel",
+        "RH": 97.500,
+        "TD": 5.336,
+        "WG": 5.704,
+        "WG_BOE": 11.268,
+        "WR": 346.957,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Hafelekar",
+        "operator": "LWD Tirol",
+        "plot": "seegrube"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "0ad1005b-cdc9-ac51-78a7-66e08538c4d1",
+      "geometry": {
+        "coordinates": [
+          12.5553,
+          47.4275,
+          1880.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 6.000,
+        "LT_MAX": 9.600,
+        "LT_MIN": 5.000,
+        "LWD-Region": "AT-07-18 Östliche Kitzbüheler Alpen",
+        "RH": 97.900,
+        "TD": 5.694,
+        "WG": 12.252,
+        "WG_BOE": 29.160,
+        "WR": 331.720,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Reckmoos",
+        "operator": "LWD Tirol",
+        "plot": "hochhoerndl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "0e406140-1150-8698-6eaa-0dbd53ec6d79",
+      "geometry": {
+        "coordinates": [
+          10.309403,
+          46.950206,
+          2864.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 0.000,
+        "LT_MAX": 5.900,
+        "LT_MIN": -0.900,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "RH": 100.300,
+        "TD": 0.041,
+        "WG": 9.000,
+        "WG_BOE": 16.020,
+        "WR": 347.784,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Palinkopf",
+        "operator": "LWD Tirol",
+        "plot": "nachtweide"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "0ed904cd-c269-93a7-e23d-b88f663e5040",
+      "geometry": {
+        "coordinates": [
+          12.436775,
+          47.464569,
+          1710.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 169.000,
+        "GS_U": 101.000,
+        "HS": 34.700,
+        "HSD24": -6.250,
+        "HSD48": -11.750,
+        "HSD72": -18.450,
+        "LT": 6.700,
+        "LT_MAX": 10.600,
+        "LT_MIN": 5.500,
+        "LWD-Region": "AT-07-18 Östliche Kitzbüheler Alpen",
+        "OFT": -0.500,
+        "RH": 99.700,
+        "TD": 6.656,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kitzbüheler Horn Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "kitzbuehler_horn"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "105f6005-e911-73cb-e07a-a24fa9e5bb26",
+      "geometry": {
+        "coordinates": [
+          12.504909256833,
+          47.1179042178878,
+          1637.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 11.000,
+        "LT_MAX": 16.250,
+        "LT_MIN": 6.167,
+        "LWD-Region": "AT-07-24 Venedigergruppe",
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Felbertauerntunnel-Südportal",
+        "operator": "HD Tirol",
+        "plot": "felbertauerntunnel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "10a47067-a104-52f7-8daf-486b67b7ad06",
+      "geometry": {
+        "coordinates": [
+          12.4719505,
+          46.8055189,
+          2217.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 174.000,
+        "HS": -2.600,
+        "HSD24": -4.127,
+        "HSD48": -10.450,
+        "HSD72": -15.751,
+        "LT": 5.300,
+        "LT_MAX": 8.700,
+        "LT_MIN": 3.700,
+        "LWD-Region": "AT-07-27 Östliche Deferegger Alpen",
+        "OFT": 8.900,
+        "RH": 99.800,
+        "TD": 5.271,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Raucheggen Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "raucheggen"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "113bf1de-e458-72f0-5938-dd58ed78a8dc",
+      "geometry": {
+        "coordinates": [
+          10.983463,
+          46.961931,
+          2104.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 6.000,
+        "HSD24": 0.175,
+        "HSD48": 0.325,
+        "HSD72": -0.175,
+        "LT": 6.500,
+        "LT_MAX": 12.800,
+        "LT_MIN": 2.500,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "RH": 99.600,
+        "TD": 6.442,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Bartiges Bödele",
+        "operator": "LWD Tirol",
+        "plot": "bartigesboedele"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "120595de-15f0-2e43-35c3-6b4124fb086c",
+      "geometry": {
+        "coordinates": [
+          11.5058020557356,
+          47.1296147313939,
+          1473.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 11.100,
+        "LT_MAX": 18.500,
+        "LT_MIN": 7.800,
+        "LWD-Region": "AT-07-15 Westliche Tuxer Alpen",
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Navis Kerschbaumsiedlung",
+        "operator": "HD Tirol",
+        "plot": "navis_kerschbaumsiedlung"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "143da112-d21c-9b88-e7fc-41a1d55b83f1",
+      "geometry": {
+        "coordinates": [
+          10.849554,
+          47.344376,
+          1750.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 307.000,
+        "HS": 9.700,
+        "HSD24": 3.379,
+        "HSD48": 2.373,
+        "HSD72": 3.129,
+        "LT": 7.900,
+        "LT_MAX": 12.600,
+        "LT_MIN": 5.000,
+        "LWD-Region": "AT-07-03 Mieminger Gebirge",
+        "OFT": 13.100,
+        "RH": 99.500,
+        "TD": 7.826,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Nassereither Alm",
+        "operator": "LWD Tirol",
+        "plot": "nassereith"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "17055d02-b7b1-a481-9e8c-4eb225676848",
+      "geometry": {
+        "coordinates": [
+          10.71439,
+          46.872906,
+          2465.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 133.200,
+        "HSD24": -6.650,
+        "HSD48": -13.400,
+        "HSD72": -14.950,
+        "LWD-Region": "AT-07-19 Glockturmgruppe",
+        "date": "2023-05-08T14:50:00+02:00",
+        "name": "Weisssee SPA",
+        "operator": "LWD Tirol/TIWAG",
+        "plot": "weisssee_spa"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "171e9347-7f1b-9d55-f4b0-745989b63237",
+      "geometry": {
+        "coordinates": [
+          10.823649,
+          47.442949,
+          2174.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 4.900,
+        "LT_MAX": 7.300,
+        "LT_MIN": 3.000,
+        "LWD-Region": "AT-07-02-01 Ammergauer Alpen",
+        "RH": 99.500,
+        "TD": 4.828,
+        "WG": 3.789,
+        "WG_BOE": 9.972,
+        "WR": 44.082,
+        "date": "2023-05-08T15:40:00+02:00",
+        "name": "Pitzenegg",
+        "operator": "LWD Tirol",
+        "plot": "pitzenegg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "17924ad7-8236-ec88-eebf-3060ba9c1b5f",
+      "geometry": {
+        "coordinates": [
+          12.3227777777778,
+          46.8175,
+          2235.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 139.000,
+        "HS": 2.400,
+        "HSD24": -3.000,
+        "HSD48": -2.539,
+        "HSD72": -2.400,
+        "LT": 4.800,
+        "LT_MAX": 6.100,
+        "LT_MIN": 3.500,
+        "LWD-Region": "AT-07-27 Östliche Deferegger Alpen",
+        "OFT": 9.300,
+        "RH": 91.200,
+        "TD": 3.490,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Mosesgipfel Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "mosesgipfel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "1815f7c5-ff44-8e8a-4790-1d2a9285401d",
+      "geometry": {
+        "coordinates": [
+          11.083694,
+          47.346612,
+          2585.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": -1.300,
+        "LT_MAX": 2.200,
+        "LT_MIN": -3.000,
+        "LWD-Region": "AT-07-03 Mieminger Gebirge",
+        "RH": 99.900,
+        "TD": -1.314,
+        "WG": 2.374,
+        "WG_BOE": 11.412,
+        "WR": 20.086,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Hohe Munde Windstation",
+        "operator": "LWD Tirol",
+        "plot": "rauthhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "1958bb55-85f4-9b5a-f793-2ed983954bd6",
+      "geometry": {
+        "coordinates": [
+          10.325499,
+          47.060638,
+          2403.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.500,
+        "LT_MAX": 9.900,
+        "LT_MIN": 2.600,
+        "LWD-Region": "AT-07-11 Östliche Verwallgruppe",
+        "RH": 101.200,
+        "TD": 5.672,
+        "WG": 0.302,
+        "WG_BOE": 9.540,
+        "WR": 26.896,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kappl Kapplerkopf",
+        "operator": "LWD Tirol",
+        "plot": "kappl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "1a35b9cd-02a3-a457-5c14-1be3592d7930",
+      "geometry": {
+        "coordinates": [
+          12.7935406321408,
+          46.8669244322635,
+          1902.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": -1.000,
+        "HSD48": -1.000,
+        "HSD72": -1.000,
+        "LT": 7.300,
+        "LT_MAX": 10.600,
+        "LT_MIN": 5.200,
+        "LWD-Region": "AT-07-28 Schobergruppe",
+        "N24": 2.200,
+        "N48": 4.100,
+        "N6": 1.100,
+        "N72": 7.600,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Zettersfeld",
+        "operator": "HD Tirol",
+        "plot": "zettersfeld"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "1c397c78-ee57-0847-c0d7-64852d771519",
+      "geometry": {
+        "coordinates": [
+          12.6197,
+          46.7083,
+          1450.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LWD-Region": "AT-07-29 Lienzer Dolomiten",
+        "name": "Beobachter Obertilliach (seit 1961)",
+        "operator": "LWD Tirol",
+        "plot": "achenkirch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "1c5b6df5-2ce8-99e1-30f0-d89feaf1c668",
+      "geometry": {
+        "coordinates": [
+          10.3658997900123,
+          47.2732347127007,
+          1697.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 207.000,
+        "HS": 2.700,
+        "HSD24": 1.950,
+        "HSD48": 1.400,
+        "HSD72": 2.300,
+        "LT": 9.500,
+        "LT_MAX": 15.600,
+        "LT_MIN": 4.200,
+        "LWD-Region": "AT-07-01 Allgäuer Alpen",
+        "N24": 21.600,
+        "N48": 21.900,
+        "N6": 1.700,
+        "N72": 31.400,
+        "TD": 9.306,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Jöchelspitze",
+        "operator": "LWD Tirol/HD Tirol",
+        "plot": "joechelspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "1d29e5a8-8afe-911a-1818-ae6513f22da7",
+      "geometry": {
+        "coordinates": [
+          10.190435,
+          46.896034,
+          2997.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.800,
+        "LT_MAX": 8.800,
+        "LT_MIN": -1.100,
+        "LWD-Region": "AT-07-12 Silvretta",
+        "WG": 1.390,
+        "WG_BOE": 6.120,
+        "WR": 33.028,
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Westliches Gamshorn",
+        "operator": "LWD Tirol",
+        "plot": "jamtalhuette_gamshorn"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "1d3d74bd-05ee-6423-730c-162756d5a01b",
+      "geometry": {
+        "coordinates": [
+          10.5731347,
+          47.0878037,
+          1855.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 458.000,
+        "HS": 13.800,
+        "HSD24": -6.150,
+        "HSD48": -16.300,
+        "HSD72": -25.050,
+        "LT": 8.300,
+        "LT_MAX": 14.300,
+        "LT_MIN": 4.200,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "OFT": -2.000,
+        "RH": 79.100,
+        "TD": 4.897,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Fiss Urgtal Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "fiss_urgtal"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "1e7e3a6b-efc3-5a7f-ea95-741c9aa0fd28",
+      "geometry": {
+        "coordinates": [
+          10.359234,
+          47.281714,
+          2226.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.200,
+        "LT_MAX": 9.900,
+        "LT_MIN": 1.300,
+        "LWD-Region": "AT-07-01 Allgäuer Alpen",
+        "RH": 95.700,
+        "TD": 4.571,
+        "WG": 1.280,
+        "WG_BOE": 12.348,
+        "WR": 332.524,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Jöchelspitze Windstation",
+        "operator": "LWD Tirol",
+        "plot": "joechelspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "22631732-c60b-2912-11d1-df478521f848",
+      "geometry": {
+        "coordinates": [
+          10.6688387774755,
+          47.2619589979091,
+          1935.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 49.200,
+        "HSD24": 9.500,
+        "HSD72": -8.800,
+        "LT": 7.900,
+        "LT_MAX": 11.100,
+        "LT_MIN": 2.300,
+        "LWD-Region": "AT-07-02-02 Östliche Lechtaler Alpen",
+        "OFT": 1.000,
+        "RH": 68.600,
+        "TD": 2.493,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Muttekopfhütte",
+        "operator": "LWD Tirol",
+        "plot": "muttekopfhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "22688125-5a8c-f666-fac3-4bbc3e6c31a3",
+      "geometry": {
+        "coordinates": [
+          10.7950000100758,
+          47.1000000304375,
+          2097.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 266.000,
+        "HS": 41.400,
+        "HSD24": -3.100,
+        "HSD48": -9.600,
+        "HSD72": -19.200,
+        "LT": 6.600,
+        "LT_MAX": 13.200,
+        "LT_MIN": 3.000,
+        "LWD-Region": "AT-07-14-01 Kaunergrat",
+        "OFT": 1.300,
+        "RH": 92.000,
+        "TD": 5.396,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Burgbach Mauchele",
+        "operator": "LWD Tirol/WLV",
+        "plot": "burgbach"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "233e540e-5ea7-132b-3caa-7115ae058a8c",
+      "geometry": {
+        "coordinates": [
+          11.765384,
+          47.299459,
+          1674.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 7.700,
+        "LT_MAX": 12.800,
+        "LT_MIN": 5.800,
+        "LWD-Region": "AT-07-16 Östliche Tuxer Alpen",
+        "N24": 7.700,
+        "N48": 7.700,
+        "N6": 3.500,
+        "N72": 17.800,
+        "RH": 100.000,
+        "TD": 7.500,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Loassattel",
+        "operator": "HD Tirol",
+        "plot": "loassattel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "2381e9d6-9010-f8b5-1369-848f44d9724a",
+      "geometry": {
+        "coordinates": [
+          10.216496,
+          46.963487,
+          2354.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 521.400,
+        "HS": 91.200,
+        "HSD24": -4.031,
+        "HSD48": -9.340,
+        "HSD72": -15.088,
+        "LT": 3.700,
+        "LT_MAX": 8.800,
+        "LT_MIN": 1.300,
+        "LWD-Region": "AT-07-12 Silvretta",
+        "OFT": 1.400,
+        "RH": 100.700,
+        "TD": 3.799,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Predigberg Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "predigberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "24b5baaf-e94e-118e-e5e9-6f7b9343486c",
+      "geometry": {
+        "coordinates": [
+          10.862306,
+          47.069889,
+          2330.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.300,
+        "LT_MAX": 11.800,
+        "LT_MIN": 1.800,
+        "LWD-Region": "AT-07-14-02 Kühtai - Geigenkamm",
+        "RH": 100.700,
+        "TD": 5.400,
+        "WG": 1.728,
+        "WG_BOE": 16.776,
+        "WR": 317.851,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Agetwoad",
+        "operator": "LWD Tirol",
+        "plot": "agetwoad"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "25905bb4-dcf4-a50b-344d-6073c95802c2",
+      "geometry": {
+        "coordinates": [
+          11.133717,
+          47.387131,
+          2350.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.800,
+        "LT_MAX": 7.000,
+        "LT_MIN": 2.200,
+        "LWD-Region": "AT-07-03 Mieminger Gebirge",
+        "RH": 100.600,
+        "TD": 3.885,
+        "WG": 1.409,
+        "WG_BOE": 7.380,
+        "WR": 50.732,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Gehrenspitze",
+        "operator": "LWD Tirol",
+        "plot": "puitegg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "29c0d9ac-1f25-713b-9e13-a18a4906171f",
+      "geometry": {
+        "coordinates": [
+          12.5509971361432,
+          47.5866678023487,
+          775.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 15.700,
+        "LT_MAX": 18.600,
+        "LT_MIN": 8.900,
+        "LWD-Region": "AT-07-06 Wilder Kaiser - Waidringer Alpen",
+        "RH": 67.000,
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Waidring",
+        "operator": "HD Tirol",
+        "plot": "waidring"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "29cbb850-b1d0-27aa-0861-ec2ecfe8a372",
+      "geometry": {
+        "coordinates": [
+          11.751511,
+          47.448514,
+          2140.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.200,
+        "LT_MAX": 8.100,
+        "LT_MIN": 2.900,
+        "LWD-Region": "AT-07-05 Brandenberger Alpen",
+        "RH": 99.400,
+        "TD": 5.114,
+        "WG": 0.969,
+        "WG_BOE": 10.008,
+        "WR": 169.519,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Dalfazkamm",
+        "operator": "LWD Tirol",
+        "plot": "erfurterhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "2b005a96-569d-79fc-69de-07b60710c25a",
+      "geometry": {
+        "coordinates": [
+          10.2970775209446,
+          47.212706332042,
+          1380.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 11.800,
+        "LT_MAX": 18.800,
+        "LT_MIN": 5.900,
+        "LWD-Region": "AT-07-08 Zentrale Lechtaler Alpen",
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Kaisers",
+        "operator": "HD Tirol",
+        "plot": "kaisers"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "2b478a84-b291-4a7f-d163-933a2d4b313c",
+      "geometry": {
+        "coordinates": [
+          12.5120892240774,
+          46.919123307801,
+          1096.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 13.667,
+        "LT_MAX": 17.367,
+        "LT_MIN": 9.100,
+        "LWD-Region": "AT-07-25 Östliche Rieserfernergruppe",
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Hopfgarten in Defereggen",
+        "operator": "HD Tirol",
+        "plot": "hopfgartenindefereggen"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "2c91e838-a3ae-9040-636e-22abeff8c524",
+      "geometry": {
+        "coordinates": [
+          10.340337,
+          47.060636,
+          2012.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 277.000,
+        "HS": 31.500,
+        "HSD24": -3.434,
+        "HSD48": -9.074,
+        "HSD72": -18.354,
+        "LT": 6.700,
+        "LT_MAX": 13.200,
+        "LT_MIN": 3.500,
+        "LWD-Region": "AT-07-11 Östliche Verwallgruppe",
+        "OFT": 3.100,
+        "RH": 99.300,
+        "TD": 6.598,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kappl Sinsenergampen",
+        "operator": "LWD Tirol",
+        "plot": "kappl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "2e6819b8-3d00-2a8c-ba7a-31b057f1f9dc",
+      "geometry": {
+        "coordinates": [
+          10.6493525395978,
+          47.474961414608,
+          1745.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 67.000,
+        "HSD24": -7.000,
+        "HSD48": -15.000,
+        "HSD72": -23.000,
+        "LT": 7.800,
+        "LT_MAX": 12.000,
+        "LT_MIN": 4.400,
+        "LWD-Region": "AT-07-01 Allgäuer Alpen",
+        "N24": 13.300,
+        "N48": 13.800,
+        "N6": 0.000,
+        "N72": 21.900,
+        "OFT": 0.300,
+        "RH": 88.000,
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Hahnenkamm (Reutte)",
+        "operator": "HD Tirol",
+        "plot": "hahnenkamm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "2fc7f2ad-ecdd-46ec-41bf-baa6d0d90961",
+      "geometry": {
+        "coordinates": [
+          11.4259406862189,
+          47.0178147451894,
+          1360.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 11.400,
+        "LT_MAX": 20.500,
+        "LT_MIN": 8.000,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Obernberg am Brenner",
+        "operator": "HD Tirol",
+        "plot": "obernberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "2fd41c12-7663-7c4-a217-fbf6c546c38",
+      "geometry": {
+        "coordinates": [
+          12.3261039873844,
+          47.4506569638435,
+          799.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": -1.000,
+        "HSD24": 0.000,
+        "HSD48": -1.000,
+        "HSD72": 0.000,
+        "LT": 15.400,
+        "LT_MAX": 19.600,
+        "LT_MIN": 9.800,
+        "LWD-Region": "AT-07-17-02 Zentrale Kitzbüheler Alpen",
+        "N24": 0.100,
+        "N48": 3.700,
+        "N6": 0.000,
+        "N72": 12.700,
+        "RH": 70.000,
+        "TD": 10.400,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Kirchberg in Tirol",
+        "operator": "HD Tirol",
+        "plot": "kirchberg_in_tirol"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "30cd03a2-4ea9-4a68-38a5-e4eea02caea9",
+      "geometry": {
+        "coordinates": [
+          11.051768,
+          46.853977,
+          3035.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.200,
+        "LT_MAX": 4.800,
+        "LT_MIN": -1.900,
+        "LWD-Region": "AT-07-21 Gurgler Gruppe",
+        "RH": 101.800,
+        "TD": 1.448,
+        "WG": 1.187,
+        "WG_BOE": 8.424,
+        "WR": 316.223,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Festkogel",
+        "operator": "LWD Tirol",
+        "plot": "rosskar"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "3483eb90-878b-fbb2-64c9-2cda6fca1c7d",
+      "geometry": {
+        "coordinates": [
+          12.5554371637672,
+          46.8272665192323,
+          1953.6
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 7.600,
+        "LT_MAX": 13.700,
+        "LT_MIN": 5.200,
+        "LWD-Region": "AT-07-27 Östliche Deferegger Alpen",
+        "date": "2023-05-08T15:51:00+02:00",
+        "name": "Villfurtalm",
+        "operator": "HD Tirol",
+        "plot": "villfurtalm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "350c1242-c300-a18d-7b4d-8485db715e34",
+      "geometry": {
+        "coordinates": [
+          10.561746,
+          46.89963,
+          2800.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.100,
+        "LT_MAX": 4.900,
+        "LT_MIN": -0.900,
+        "LWD-Region": "AT-07-19 Glockturmgruppe",
+        "RH": 100.700,
+        "WG": 3.891,
+        "WG_BOE": 16.020,
+        "WR": 343.769,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Schartlkopf",
+        "operator": "LWD Tirol",
+        "plot": "gamoarbach"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "3890bb91-383b-ff3b-2016-f8f544f4bad4",
+      "geometry": {
+        "coordinates": [
+          10.6409611111111,
+          47.4765333333333,
+          1884.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 6.200,
+        "LT_MAX": 9.700,
+        "LT_MIN": 3.300,
+        "LWD-Region": "AT-07-01 Allgäuer Alpen",
+        "RH": 100.200,
+        "TD": 6.229,
+        "WG": 1.329,
+        "WG_BOE": 6.876,
+        "WR": 121.280,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Hahnenkamm Windstation",
+        "operator": "LWD Tirol",
+        "plot": "hahnenkamm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "39c2ee72-9f31-5100-ce10-e682541df3d1",
+      "geometry": {
+        "coordinates": [
+          11.3779335010812,
+          47.3063819943737,
+          1921.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 200.000,
+        "HS": 77.100,
+        "HSD24": -6.885,
+        "HSD48": -14.774,
+        "HSD72": -23.650,
+        "LT": 5.500,
+        "LT_MAX": 9.100,
+        "LT_MIN": 3.200,
+        "LWD-Region": "AT-07-04-01 Westliches Karwendel",
+        "OFT": 0.690,
+        "RH": 100.000,
+        "TD": 5.500,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Seegrube",
+        "operator": "LWD Tirol",
+        "plot": "seegrube"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "3b92e34e-c454-f449-e5f2-24cf30d83f56",
+      "geometry": {
+        "coordinates": [
+          12.426271241501,
+          47.3821117522466,
+          950.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 13.100,
+        "LT_MAX": 18.100,
+        "LT_MIN": 9.200,
+        "LWD-Region": "AT-07-18 Östliche Kitzbüheler Alpen",
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Jochberg",
+        "operator": "HD Tirol",
+        "plot": "jochberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "3cf49312-6efe-d567-5cb1-8735907f219d",
+      "geometry": {
+        "coordinates": [
+          12.4124920215843,
+          46.7217673049261,
+          1920.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": -1.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 6.700,
+        "LT_MAX": 10.000,
+        "LT_MIN": 5.100,
+        "LWD-Region": "AT-07-29 Lienzer Dolomiten",
+        "N24": 4.500,
+        "N48": 9.700,
+        "N6": 1.600,
+        "N72": 13.800,
+        "RH": 95.000,
+        "TD": 6.200,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Leckfeldalm",
+        "operator": "HD Tirol",
+        "plot": "leckfeldalm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "405b6232-36b2-9e3b-a750-da2a45a0d6a6",
+      "geometry": {
+        "coordinates": [
+          12.6097,
+          46.8047,
+          2180.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 4.600,
+        "LT_MAX": 7.200,
+        "LT_MIN": 3.700,
+        "LWD-Region": "AT-07-27 Östliche Deferegger Alpen",
+        "RH": 97.000,
+        "WG": 15.747,
+        "WG_BOE": 22.680,
+        "WR": 75.079,
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Assling Compedal Windstation",
+        "operator": "LWD Tirol",
+        "plot": "compedal"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "40683bfe-dbc9-3389-884a-74c8a1988483",
+      "geometry": {
+        "coordinates": [
+          12.5589,
+          47.4253,
+          1769.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 154.000,
+        "HS": 31.600,
+        "HSD24": -6.914,
+        "HSD48": -14.501,
+        "HSD72": -21.600,
+        "LT": 7.200,
+        "LT_MAX": 11.100,
+        "LT_MIN": 5.900,
+        "LWD-Region": "AT-07-18 Östliche Kitzbüheler Alpen",
+        "OFT": -5.400,
+        "RH": 97.900,
+        "TD": 6.891,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Hochhörndl",
+        "operator": "LWD Tirol",
+        "plot": "hochhoerndl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "43dd7dc6-62ae-b649-09f9-877cdd59adf6",
+      "geometry": {
+        "coordinates": [
+          12.0769966807791,
+          47.4327928131594,
+          1405.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 9.400,
+        "LT_MAX": 15.300,
+        "LT_MIN": 7.500,
+        "LWD-Region": "AT-07-17-01 Westliche Kitzbüheler Alpen",
+        "N24": 10.200,
+        "N48": 16.200,
+        "N6": 0.000,
+        "N72": 23.900,
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Norderbergalm",
+        "operator": "HD Tirol",
+        "plot": "norderbergalm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "44adf205-aa1d-3169-b4fc-c449cff8318b",
+      "geometry": {
+        "coordinates": [
+          10.667904,
+          47.275091,
+          2580.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.700,
+        "LT_MAX": 7.900,
+        "LT_MIN": -0.700,
+        "LWD-Region": "AT-07-02-02 Östliche Lechtaler Alpen",
+        "RH": 99.000,
+        "TD": 2.559,
+        "WG": 0.953,
+        "WG_BOE": 7.380,
+        "WR": 245.904,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Vorderer Maldonkopf",
+        "operator": "LWD Tirol",
+        "plot": "muttekopfhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "46f149e9-fd17-3354-836f-b18724221911",
+      "geometry": {
+        "coordinates": [
+          10.411902,
+          47.09232,
+          2205.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 407.200,
+        "HS": 58.400,
+        "HSD24": -5.827,
+        "HSD48": -13.700,
+        "HSD72": -18.750,
+        "LT": 5.000,
+        "LT_MAX": 9.800,
+        "LT_MIN": 0.900,
+        "LWD-Region": "AT-07-11 Östliche Verwallgruppe",
+        "OFT": 1.200,
+        "RH": 94.400,
+        "TD": 4.177,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kappl Spidur Alpe",
+        "operator": "LWD Tirol",
+        "plot": "kappl_spidur_alpe"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "47c0bf5e-59ef-313b-b589-aca0a65d7686",
+      "geometry": {
+        "coordinates": [
+          10.472944,
+          47.012741,
+          2824.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 0.100,
+        "LT_MAX": 5.500,
+        "LT_MIN": -1.600,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "RH": 98.000,
+        "TD": -0.178,
+        "WG": 3.694,
+        "WG_BOE": 12.420,
+        "WR": 324.831,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Serfaus Masnerkopf",
+        "operator": "LWD Tirol",
+        "plot": "serfaus"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "47ddab7e-836b-7ce0-1d97-45d9721d669e",
+      "geometry": {
+        "coordinates": [
+          11.0273833333333,
+          47.0839527777778,
+          2385.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 340.000,
+        "HS": 97.000,
+        "HSD24": -2.402,
+        "HSD48": -7.640,
+        "HSD72": -11.488,
+        "LT": 3.200,
+        "LT_MAX": 8.000,
+        "LT_MIN": 0.700,
+        "LWD-Region": "AT-07-14-02 Kühtai - Geigenkamm",
+        "OFT": -1.600,
+        "RH": 95.300,
+        "TD": 2.522,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Breiter Grieskogel Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "breiter_grieskogel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "485428b1-c2e2-2b25-5f3e-b81672b49c0c",
+      "geometry": {
+        "coordinates": [
+          12.5427164614116,
+          47.002755991701,
+          1001.4
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 14.600,
+        "LT_MAX": 19.800,
+        "LT_MIN": 10.600,
+        "LWD-Region": "AT-07-26 Glocknergruppe",
+        "RH": 83.000,
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Matrei in Osttirol",
+        "operator": "HD Tirol",
+        "plot": "matrei"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "48601f7e-7e54-c452-fe27-934b1bef1c4d",
+      "geometry": {
+        "coordinates": [
+          11.1746533,
+          47.0368417,
+          3092.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 0.200,
+        "LT_MAX": 2.700,
+        "LT_MIN": -2.000,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "RH": 99.600,
+        "TD": 0.145,
+        "WG": 0.673,
+        "WG_BOE": 6.480,
+        "WR": 296.940,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Nockwand Wind",
+        "operator": "LWD Tirol",
+        "plot": "nockwand"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "486961d0-4ef5-5dd5-220a-c680206624a7",
+      "geometry": {
+        "coordinates": [
+          11.030122,
+          47.231557,
+          2678.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.300,
+        "LT_MAX": 7.400,
+        "LT_MIN": 0.900,
+        "LWD-Region": "AT-07-09 Grieskogelgruppe",
+        "RH": 94.700,
+        "TD": 4.520,
+        "WG": 4.036,
+        "WG_BOE": 13.392,
+        "WR": 141.301,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kühtai Hochalter",
+        "operator": "LWD Tirol",
+        "plot": "laengental"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "4944118d-eb3c-0a0f-d6f5-39789cda6d5e",
+      "geometry": {
+        "coordinates": [
+          10.6052033477463,
+          47.2841492143689,
+          1355.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": -0.500,
+        "HSD24": -0.500,
+        "HSD48": -0.500,
+        "HSD72": -0.500,
+        "LT": 11.500,
+        "LT_MAX": 17.300,
+        "LT_MIN": 6.400,
+        "LWD-Region": "AT-07-02-02 Östliche Lechtaler Alpen",
+        "N24": 14.800,
+        "N48": 14.800,
+        "N6": 0.000,
+        "N72": 28.300,
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Boden",
+        "operator": "HD Tirol",
+        "plot": "pfafflar_boden"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "4b2b654d-1c7f-becd-e0a1-ca26324d1d30",
+      "geometry": {
+        "coordinates": [
+          10.198715,
+          46.988531,
+          2303.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 548.000,
+        "HS": 140.500,
+        "HSD24": -6.968,
+        "HSD48": -12.100,
+        "HSD72": -19.264,
+        "LT": 7.000,
+        "LT_MAX": 11.400,
+        "LT_MIN": 1.100,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "OFT": 1.000,
+        "RH": 80.000,
+        "TD": 3.793,
+        "date": "2023-05-08T15:40:00+02:00",
+        "name": "Am Adamsberg (Hauptstation)",
+        "operator": "LWD Tirol",
+        "plot": "amadamsberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "4cd4fb11-94e5-d990-83d1-0ff67654013a",
+      "geometry": {
+        "coordinates": [
+          10.554773,
+          46.901942,
+          2581.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 707.000,
+        "HS": 67.500,
+        "HSD24": -3.050,
+        "HSD48": -7.712,
+        "HSD72": -12.150,
+        "LT": 3.300,
+        "LT_MAX": 7.900,
+        "LT_MIN": 0.300,
+        "LWD-Region": "AT-07-19 Glockturmgruppe",
+        "OFT": -2.800,
+        "RH": 95.400,
+        "TD": 2.637,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Gamoarbach",
+        "operator": "LWD Tirol",
+        "plot": "gamoarbach"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "4d5421ba-37fa-3899-5e88-1b6a0dca6127",
+      "geometry": {
+        "coordinates": [
+          11.1562443546046,
+          47.1950084456261,
+          1200.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": -1.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 13.200,
+        "LT_MAX": 18.400,
+        "LT_MIN": 8.000,
+        "LWD-Region": "AT-07-09 Grieskogelgruppe",
+        "N24": 6.600,
+        "N48": 6.600,
+        "N6": 0.500,
+        "N72": 9.500,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Gries im Sellrain",
+        "operator": "HD Tirol",
+        "plot": "gries_im_sellrain"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "4f3056f6-8d54-88be-5abd-1cdbbda66c0b",
+      "geometry": {
+        "coordinates": [
+          11.2880109778398,
+          47.1801049847685,
+          2103.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 434.200,
+        "HS": 85.900,
+        "HSD24": -4.705,
+        "HSD48": -9.450,
+        "HSD72": -14.650,
+        "LT": 4.900,
+        "LT_MAX": 8.700,
+        "LT_MIN": 2.700,
+        "LWD-Region": "AT-07-14-04 Kalkkögel",
+        "N24": 7.480,
+        "N48": 8.050,
+        "N6": 0.480,
+        "N72": 11.260,
+        "OFT": 1.200,
+        "RH": 92.600,
+        "TD": 3.804,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Speicherteich Axamer Lizum",
+        "operator": "LWD Tirol",
+        "plot": "axamer_lizum"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "4f6dc3a4-85c5-f3-dd9e-1d4de030d51c",
+      "geometry": {
+        "coordinates": [
+          12.336998,
+          46.820923,
+          2550.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.900,
+        "LT_MAX": 4.400,
+        "LT_MIN": 2.000,
+        "LWD-Region": "AT-07-27 Östliche Deferegger Alpen",
+        "RH": 100.500,
+        "TD": 2.970,
+        "WG": 11.291,
+        "WG_BOE": 21.060,
+        "WR": 73.405,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Mosesgipfel Windstation",
+        "operator": "LWD Tirol",
+        "plot": "mosesgipfel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "507122c1-154-d5d9-6666-1ec2a1e5ab0",
+      "geometry": {
+        "coordinates": [
+          12.2259811143605,
+          46.9357311776597,
+          1739.7
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 9.000,
+        "LT_MAX": 15.100,
+        "LT_MIN": 4.800,
+        "LWD-Region": "AT-07-25 Östliche Rieserfernergruppe",
+        "N24": 3.700,
+        "N48": 5.400,
+        "N6": 0.600,
+        "N72": 7.400,
+        "date": "2023-05-08T13:00:00+02:00",
+        "name": "Oberhausalm",
+        "operator": "HD Tirol",
+        "plot": "oberhausalm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "50de3eb5-72d0-daca-452a-5daa44786d3c",
+      "geometry": {
+        "coordinates": [
+          10.277611,
+          47.109912,
+          2401.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.200,
+        "LT_MAX": 9.900,
+        "LT_MIN": 1.100,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "RH": 84.600,
+        "TD": 2.824,
+        "WG": 4.533,
+        "WG_BOE": 9.792,
+        "WR": 245.030,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Gampberg Windstation",
+        "operator": "LWD Tirol",
+        "plot": "gampberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "52bf69d9-b4fb-befe-fedc-7367b3dd55aa",
+      "geometry": {
+        "coordinates": [
+          11.8625263077145,
+          47.3073586482856,
+          553.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 17.300,
+        "LT_MAX": 23.100,
+        "LT_MIN": 12.700,
+        "LWD-Region": "AT-07-16 Östliche Tuxer Alpen",
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Ried im Zillertal",
+        "operator": "HD Tirol",
+        "plot": "ried"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "54064850-9123-f1c1-21f7-aef5710ee3a2",
+      "geometry": {
+        "coordinates": [
+          12.584813,
+          46.983181,
+          2419.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.100,
+        "LT_MAX": 7.500,
+        "LT_MIN": 2.300,
+        "LWD-Region": "AT-07-26 Glocknergruppe",
+        "RH": 100.700,
+        "TD": 3.198,
+        "WG": 0.537,
+        "WG_BOE": 10.152,
+        "WR": 173.748,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Bunköpfl",
+        "operator": "LWD Tirol",
+        "plot": "goldriedkessel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "55f47645-ff8e-b24e-13a0-ce624c17118a",
+      "geometry": {
+        "coordinates": [
+          10.207991,
+          46.960398,
+          2340.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.600,
+        "LT_MAX": 10.000,
+        "LT_MIN": 1.600,
+        "LWD-Region": "AT-07-12 Silvretta",
+        "RH": 100.200,
+        "TD": 3.628,
+        "WG": 5.013,
+        "WG_BOE": 19.044,
+        "WR": 290.400,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Predigberg Windstation",
+        "operator": "LWD Tirol",
+        "plot": "predigberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "5769e2d4-77f2-4a97-c521-f7929db270ae",
+      "geometry": {
+        "coordinates": [
+          10.966994,
+          46.972983,
+          2532.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 61.700,
+        "HSD24": -2.700,
+        "HSD48": -8.525,
+        "HSD72": -12.150,
+        "LT": 3.700,
+        "LT_MAX": 9.700,
+        "LT_MIN": -0.100,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "OFT": -1.800,
+        "RH": 91.300,
+        "TD": 2.417,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Giggijoch",
+        "operator": "LWD Tirol",
+        "plot": "giggijoch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "59820adb-de60-6ef9-e665-47f2b21e034a",
+      "geometry": {
+        "coordinates": [
+          12.701532,
+          47.069906,
+          3454.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 0.900,
+        "LT_MAX": 2.600,
+        "LT_MIN": -3.800,
+        "LWD-Region": "AT-07-26 Glocknergruppe",
+        "RH": 89.800,
+        "TD": -0.580,
+        "WG": 0.165,
+        "WG_BOE": 6.948,
+        "WR": 200.059,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kals Adlersruhe (Erzherzog-Johann-Hütte)",
+        "operator": "LWD Tirol",
+        "plot": "kals_adlershoehe"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "59ae941a-1bbf-9bf8-169e-122ac4fa8e86",
+      "geometry": {
+        "coordinates": [
+          10.864416,
+          47.421833,
+          1803.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LWD-Region": "AT-07-02-01 Ammergauer Alpen",
+        "name": "Lichtenberg",
+        "operator": "LWD Tirol/ÖBB",
+        "plot": "lichtenberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "5bb204bf-6eed-38b0-294e-a403b2704549",
+      "geometry": {
+        "coordinates": [
+          12.5630099737331,
+          47.4382389911689,
+          1379.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 10.100,
+        "LT_MAX": 14.000,
+        "LT_MIN": 7.600,
+        "LWD-Region": "AT-07-18 Östliche Kitzbüheler Alpen",
+        "N24": 1.500,
+        "N48": 3.000,
+        "N6": 1.400,
+        "N72": 16.500,
+        "RH": 90.000,
+        "TD": 8.500,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Fieberbrunn-Reckmoos",
+        "operator": "HD Tirol",
+        "plot": "fieberbrunn_reckmoos"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "5e41ac0b-ac37-680d-772e-f013f236b343",
+      "geometry": {
+        "coordinates": [
+          12.422188,
+          46.937354,
+          2115.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 158.000,
+        "HS": 6.200,
+        "HSD24": -0.600,
+        "HSD48": 0.421,
+        "HSD72": 1.487,
+        "LT": 6.400,
+        "LT_MAX": 11.400,
+        "LT_MIN": 4.300,
+        "LWD-Region": "AT-07-25 Östliche Rieserfernergruppe",
+        "OFT": 8.600,
+        "RH": 100.100,
+        "TD": 6.414,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "St Veit Zischke",
+        "operator": "LWD Tirol",
+        "plot": "stveit_zischke"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "61b9e2fd-48f5-43dc-bcf2-b92c210cc153",
+      "geometry": {
+        "coordinates": [
+          12.6139663887681,
+          46.7985114336738,
+          1918.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": -1.000,
+        "LT": 8.300,
+        "LT_MAX": 11.300,
+        "LT_MIN": 5.600,
+        "LWD-Region": "AT-07-27 Östliche Deferegger Alpen",
+        "N24": 8.000,
+        "N48": 8.000,
+        "N6": 0.000,
+        "N72": 14.100,
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Assling Compedal",
+        "operator": "HD Tirol",
+        "plot": "compedal"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "632ed9e3-7423-0e5e-7b55-f2366b2b49b4",
+      "geometry": {
+        "coordinates": [
+          11.936640844402,
+          47.1741924851254,
+          1845.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 58.000,
+        "HSD24": -8.000,
+        "HSD48": -15.000,
+        "HSD72": -22.000,
+        "LT": 6.800,
+        "LT_MAX": 12.800,
+        "LT_MIN": 3.900,
+        "LWD-Region": "AT-07-23 Nördliche Zillertaler Alpen",
+        "N24": 2.600,
+        "N48": 2.600,
+        "N6": 0.400,
+        "N72": 8.000,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Brandberg Kolmhaus",
+        "operator": "HD Tirol",
+        "plot": "brandberg_kolmhaus"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "633d3c4b-e7e9-d4ee-fcec-4187d2ccbff2",
+      "geometry": {
+        "coordinates": [
+          11.0230388888889,
+          47.1010555555556,
+          3282.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": -0.400,
+        "LT_MAX": 0.100,
+        "LT_MIN": -3.000,
+        "LWD-Region": "AT-07-14-03 Sellrain - Alpeiner Berge",
+        "RH": 100.200,
+        "TD": -0.373,
+        "WG": 1.360,
+        "WG_BOE": 10.368,
+        "WR": 117.091,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Breiter Grieskogel Windstation",
+        "operator": "LWD Tirol",
+        "plot": "breiter_grieskogel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6611ee4d-3230-9397-7b63-c21de2073a54",
+      "geometry": {
+        "coordinates": [
+          10.8284827187352,
+          46.8565653451251,
+          2640.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 6.900,
+        "LT_MAX": 17.100,
+        "LT_MIN": -0.300,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Vernagt (Pegel)",
+        "operator": "HD Tirol",
+        "plot": "vernagt"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "66d322a5-d80e-2b4e-e214-7adefeb2873c",
+      "geometry": {
+        "coordinates": [
+          11.648053,
+          47.093149,
+          2380.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 40.000,
+        "HS": 114.800,
+        "HSD24": -5.300,
+        "HSD48": -9.800,
+        "HSD72": -15.626,
+        "LT": 1.500,
+        "LT_MAX": 11.500,
+        "LT_MIN": 1.300,
+        "LWD-Region": "AT-07-15 Westliche Tuxer Alpen",
+        "OFT": 0.000,
+        "RH": 99.100,
+        "TD": 1.374,
+        "date": "2023-05-08T07:00:00+02:00",
+        "name": "Tuxerjoch Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "tuxerjoch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "67d1e564-9092-49cd-1f76-6bd868b8181b",
+      "geometry": {
+        "coordinates": [
+          12.6242392618044,
+          46.7245773200739,
+          2070.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 56.000,
+        "HSD24": -4.000,
+        "HSD48": -8.000,
+        "HSD72": -12.500,
+        "LT": 5.800,
+        "LT_MAX": 10.400,
+        "LT_MIN": 4.600,
+        "LWD-Region": "AT-07-29 Lienzer Dolomiten",
+        "N24": 7.200,
+        "N48": 7.800,
+        "N6": 4.400,
+        "N72": 14.100,
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Conny Alm",
+        "operator": "HD Tirol",
+        "plot": "connyalm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6a8ef4aa-55f2-7f24-d732-fc8b381a550d",
+      "geometry": {
+        "coordinates": [
+          11.3780816795332,
+          47.306378758316,
+          1921.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 69.000,
+        "HSD24": -5.000,
+        "HSD48": -11.000,
+        "HSD72": -19.000,
+        "LT": 6.400,
+        "LT_MAX": 11.000,
+        "LT_MIN": 4.000,
+        "LWD-Region": "AT-07-04-01 Westliches Karwendel",
+        "N24": 9.000,
+        "N48": 9.000,
+        "N6": 2.000,
+        "N72": 18.300,
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Innsbruck Seegrube",
+        "operator": "HD Tirol",
+        "plot": "seegrube_hd"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6bcc6bd3-3d04-fb38-f485-2fe21cfc8eb8",
+      "geometry": {
+        "coordinates": [
+          10.852025,
+          46.96259,
+          2227.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 333.000,
+        "HS": 51.700,
+        "HSD24": -2.837,
+        "HSD48": -9.424,
+        "HSD72": -14.365,
+        "LT": 5.200,
+        "LT_MAX": 10.100,
+        "LT_MIN": 0.200,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "OFT": 2.500,
+        "RH": 81.600,
+        "TD": 2.317,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Rifflsee Talstation Grubenkopf",
+        "operator": "LWD Tirol",
+        "plot": "rifflsee"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6c67a0c0-13ca-2382-5363-dfa78b1f4bf4",
+      "geometry": {
+        "coordinates": [
+          10.271353,
+          47.11174,
+          2153.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 72.400,
+        "HSD24": -3.397,
+        "HSD48": -7.786,
+        "HSD72": -14.077,
+        "LT": 5.000,
+        "LT_MAX": 10.900,
+        "LT_MIN": 2.900,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "OFT": -3.000,
+        "RH": 99.400,
+        "TD": 4.914,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Gampberg Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "gampberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6cb4697c-2e0a-7214-6f8c-9af46ee648f3",
+      "geometry": {
+        "coordinates": [
+          11.335489,
+          47.052267,
+          2180.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 263.000,
+        "HS": 55.400,
+        "HSD24": -8.350,
+        "HSD48": -8.890,
+        "HSD72": -16.200,
+        "LT": 3.600,
+        "LT_MAX": 9.300,
+        "LT_MIN": 2.000,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "OFT": 1.600,
+        "RH": 108.900,
+        "TD": 4.813,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Gallreideschrofen",
+        "operator": "LWD Tirol",
+        "plot": "gallreideschrofen"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6d82fc87-4bbf-be41-c380-060fc8f78d56",
+      "geometry": {
+        "coordinates": [
+          12.415529,
+          46.945841,
+          2630.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.000,
+        "LT_MAX": 5.200,
+        "LT_MIN": 0.600,
+        "LWD-Region": "AT-07-25 Östliche Rieserfernergruppe",
+        "RH": 97.200,
+        "TD": 0.607,
+        "WG": 0.760,
+        "WG_BOE": 15.732,
+        "WR": 2.296,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "St Veit Speikboden",
+        "operator": "LWD Tirol",
+        "plot": "stveit_zischke"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6e3c63ec-2123-375d-a452-e2aa54941ba8",
+      "geometry": {
+        "coordinates": [
+          11.755802,
+          47.271989,
+          2244.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.600,
+        "LT_MAX": 6.100,
+        "LT_MIN": 2.400,
+        "LWD-Region": "AT-07-16 Östliche Tuxer Alpen",
+        "RH": 99.500,
+        "TD": 3.529,
+        "WG": 2.353,
+        "WG_BOE": 11.628,
+        "WR": 73.600,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Sonntagsköpfl Windstation",
+        "operator": "LWD Tirol",
+        "plot": "sonntagskoepfl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6e87686f-669a-f44c-dd1a-373a20b69602",
+      "geometry": {
+        "coordinates": [
+          12.358958,
+          47.046708,
+          3155.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": -2.200,
+        "LT_MAX": 1.100,
+        "LT_MIN": -2.800,
+        "LWD-Region": "AT-07-24 Venedigergruppe",
+        "RH": 65.500,
+        "TD": -7.772,
+        "WG": 2.986,
+        "WG_BOE": 30.924,
+        "WR": 344.940,
+        "date": "2023-05-05T01:00:00+02:00",
+        "name": "Kreuzspitze",
+        "operator": "LWD Tirol",
+        "plot": "eselruecken"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "707b4417-4828-e0a3-c590-4dadf5573291",
+      "geometry": {
+        "coordinates": [
+          10.7143950117534,
+          46.8729059674426,
+          2480.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 151.600,
+        "HSD24": -5.870,
+        "HSD48": -11.457,
+        "HSD72": -16.632,
+        "LT": 8.200,
+        "LT_MAX": 15.900,
+        "LT_MIN": -0.200,
+        "LWD-Region": "AT-07-19 Glockturmgruppe",
+        "N24": 15.300,
+        "N48": 15.700,
+        "N6": 0.000,
+        "N72": 19.100,
+        "RH": 56.700,
+        "TD": 0.130,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Weisssee LWD",
+        "operator": "LWD Tirol",
+        "plot": "weisssee_lwd"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "71512121-d2a9-5d1e-95ea-ea1d4d6195a3",
+      "geometry": {
+        "coordinates": [
+          11.142068841086,
+          47.3705430418914,
+          1135.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LWD-Region": "AT-07-03 Mieminger Gebirge",
+        "N24": 3.200,
+        "N48": 3.200,
+        "N6": 0.300,
+        "N72": 8.700,
+        "TD": 8.900,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Leutasch Kirchplatzl",
+        "operator": "HD Tirol",
+        "plot": "leutasch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "72e43789-7f32-05ab-b35e-a1a6aa46353a",
+      "geometry": {
+        "coordinates": [
+          11.1623888694066,
+          47.0960000187559,
+          2503.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 165.000,
+        "HS": 164.800,
+        "HSD24": -0.536,
+        "HSD48": -2.695,
+        "HSD72": -7.393,
+        "LT": 2.000,
+        "LT_MAX": 6.400,
+        "LT_MIN": 0.900,
+        "LWD-Region": "AT-07-14-03 Sellrain - Alpeiner Berge",
+        "OFT": 0.100,
+        "RH": 99.900,
+        "TD": 1.986,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Franz-Senn-Hütte Kl Horntal",
+        "operator": "LWD Tirol",
+        "plot": "franz_senn_huette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "72fc661e-b86f-8569-e4c8-9ad2ab8452ef",
+      "geometry": {
+        "coordinates": [
+          11.639487253969,
+          47.5805327207742,
+          900.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 12.300,
+        "LT_MAX": 13.600,
+        "LT_MIN": 9.900,
+        "LWD-Region": "AT-07-05 Brandenberger Alpen",
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Achenkirch-Mühleggerköpfl",
+        "operator": "HD Tirol",
+        "plot": "muehleggerkoepfl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "736ce3c6-fcaf-c465-94c4-2b7babac27ae",
+      "geometry": {
+        "coordinates": [
+          12.4790204,
+          46.8033721,
+          2484.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.800,
+        "LT_MAX": 5.200,
+        "LT_MIN": 1.800,
+        "LWD-Region": "AT-07-27 Östliche Deferegger Alpen",
+        "RH": 99.400,
+        "TD": 2.715,
+        "WG": 10.248,
+        "WG_BOE": 23.328,
+        "WR": 76.754,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Raucheggen Windstation",
+        "operator": "LWD Tirol",
+        "plot": "raucheggen"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "75daf284-2a54-f56c-e50c-55eeb3e6392b",
+      "geometry": {
+        "coordinates": [
+          11.010845,
+          47.190165,
+          2988.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 0.600,
+        "LT_MAX": 3.700,
+        "LT_MIN": -1.500,
+        "LWD-Region": "AT-07-14-02 Kühtai - Geigenkamm",
+        "RH": 94.900,
+        "TD": -0.121,
+        "WG": 0.418,
+        "WG_BOE": 8.388,
+        "WR": 162.031,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Zwölferkogel",
+        "operator": "LWD Tirol/TIWAG",
+        "plot": "zwoelferkogel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "7995c744-cf60-1f3b-7630-e426d197a0e1",
+      "geometry": {
+        "coordinates": [
+          11.303032,
+          47.280603,
+          1922.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 7.200,
+        "LT_MAX": 13.500,
+        "LT_MIN": 5.200,
+        "LWD-Region": "AT-07-04-01 Westliches Karwendel",
+        "RH": 99.300,
+        "TD": 7.098,
+        "WG": 0.173,
+        "WG_BOE": 8.172,
+        "WR": 199.527,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Hechenberg",
+        "operator": "LWD Tirol/ÖBB",
+        "plot": "hechenberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "7a0fbd74-0656-8f50-97d6-06907b5ba7fc",
+      "geometry": {
+        "coordinates": [
+          11.119766,
+          46.994833,
+          2620.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 124.900,
+        "HSD24": -3.415,
+        "HSD48": -7.720,
+        "HSD72": -11.700,
+        "LT": 5.200,
+        "LT_MAX": 10.800,
+        "LT_MIN": 2.200,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "RH": 97.600,
+        "TD": 4.852,
+        "WG": 0.645,
+        "WG_BOE": 6.372,
+        "WR": 108.129,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Eissee",
+        "operator": "LWD Tirol",
+        "plot": "stubaiergletscher"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "7f0426f5-2031-5127-e44c-25b83e71205c",
+      "geometry": {
+        "coordinates": [
+          12.2979457861093,
+          47.0548394780051,
+          2208.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.900,
+        "LT_MAX": 13.200,
+        "LT_MIN": 3.900,
+        "LWD-Region": "AT-07-24 Venedigergruppe",
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Essener-Rostocker-Hütte",
+        "operator": "HD Tirol",
+        "plot": "essenerrostockerhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "81500c11-6a2e-d8f2-7e38-ef2550d8ec41",
+      "geometry": {
+        "coordinates": [
+          11.1395921042623,
+          46.9969756302505,
+          2290.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 33.000,
+        "HSD24": -4.000,
+        "HSD48": -10.000,
+        "HSD72": -16.000,
+        "LT": 3.000,
+        "LT_MAX": 7.600,
+        "LT_MIN": 1.600,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "N24": 8.100,
+        "N48": 8.300,
+        "N6": 0.700,
+        "N72": 9.600,
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Dresdner Hütte",
+        "operator": "HD Tirol",
+        "plot": "dresdnerhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "81d24a39-1d27-7cfd-4057-e6a6772f1c2e",
+      "geometry": {
+        "coordinates": [
+          10.171564,
+          46.982889,
+          2750.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 0.600,
+        "LT_MAX": 9.300,
+        "LT_MIN": 0.600,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "RH": 100.000,
+        "TD": 0.600,
+        "WG": 0.544,
+        "WG_BOE": 11.268,
+        "WR": 169.000,
+        "date": "2023-05-08T06:00:00+02:00",
+        "name": "Grieskopf",
+        "operator": "LWD Tirol",
+        "plot": "amadamsberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "82ba39f9-ecaa-1d72-5a1d-d26b674f7227",
+      "geometry": {
+        "coordinates": [
+          11.1465206411256,
+          47.2405584231424,
+          1790.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 1.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 8.300,
+        "LT_MAX": 12.900,
+        "LT_MIN": 5.300,
+        "LWD-Region": "AT-07-09 Grieskogelgruppe",
+        "N24": 11.800,
+        "N48": 11.800,
+        "N6": 1.800,
+        "N72": 17.000,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Inzinger Alm [Kaserboden]",
+        "operator": "HD Tirol",
+        "plot": "inzinger_alm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "8766d854-57e3-7431-b2b6-4b7f038cd1f6",
+      "geometry": {
+        "coordinates": [
+          10.306146,
+          46.982623,
+          2030.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 463.000,
+        "HS": 33.800,
+        "HSD24": -4.366,
+        "HSD48": -10.271,
+        "HSD72": -18.834,
+        "LT": 6.500,
+        "LT_MAX": 12.700,
+        "LT_MIN": 2.800,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "OFT": 0.100,
+        "RH": 95.500,
+        "TD": 5.834,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Nachtweide",
+        "operator": "LWD Tirol",
+        "plot": "nachtweide"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "88e60e0d-fbf8-d339-7d6d-57e38be130d3",
+      "geometry": {
+        "coordinates": [
+          10.855198,
+          46.963654,
+          2293.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 4.300,
+        "LT_MAX": 10.200,
+        "LT_MIN": -0.200,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "RH": 101.300,
+        "TD": 4.484,
+        "WG": 2.029,
+        "WG_BOE": 7.236,
+        "WR": 63.363,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Rifflsee Muttenkopf",
+        "operator": "LWD Tirol",
+        "plot": "rifflsee"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "8905c945-2a61-3b9a-653e-3925753cee35",
+      "geometry": {
+        "coordinates": [
+          10.544345,
+          46.863224,
+          2150.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 362.000,
+        "HS": 30.200,
+        "HSD24": -6.700,
+        "HSD48": -13.866,
+        "HSD72": -22.900,
+        "LT": 5.700,
+        "LT_MAX": 12.000,
+        "LT_MIN": 2.100,
+        "LWD-Region": "AT-07-19 Glockturmgruppe",
+        "OFT": 0.100,
+        "RH": 95.500,
+        "TD": 5.038,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Nauders Ganderbild",
+        "operator": "LWD Tirol",
+        "plot": "nauders_ganderbild"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "8d9b9e85-af82-44bb-cd25-a5fc2127e7a4",
+      "geometry": {
+        "coordinates": [
+          12.3295,
+          47.5808888888889,
+          1025.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 114.000,
+        "HS": -0.300,
+        "HSD24": -1.850,
+        "HSD48": -1.422,
+        "HSD72": -0.300,
+        "LT": 12.800,
+        "LT_MAX": 16.700,
+        "LT_MIN": 9.200,
+        "LWD-Region": "AT-07-06 Wilder Kaiser - Waidringer Alpen",
+        "OFT": 14.900,
+        "TD": 10.024,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Griesneralm LWD",
+        "operator": "LWD Tirol",
+        "plot": "kirchdorf_griesneralm_stripsenjoch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "8fa8ea03-9873-a52f-a6d7-b4d6ecb4763f",
+      "geometry": {
+        "coordinates": [
+          10.8883502545857,
+          46.8008534935225,
+          2470.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.600,
+        "LT_MAX": 8.100,
+        "LT_MIN": 0.100,
+        "LWD-Region": "AT-07-21 Gurgler Gruppe",
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Martin-Busch-Hütte",
+        "operator": "HD Tirol",
+        "plot": "martinbuschhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "904d629f-a5e3-5ce8-cba9-9fd45e2c905d",
+      "geometry": {
+        "coordinates": [
+          10.76282,
+          47.071488,
+          2038.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 148.000,
+        "GS_U": 159.000,
+        "HS": 31.200,
+        "HSD24": -10.267,
+        "HSD48": -16.500,
+        "HSD72": -23.674,
+        "LT": 7.200,
+        "LT_MAX": 12.600,
+        "LT_MIN": 2.200,
+        "LWD-Region": "AT-07-14-01 Kaunergrat",
+        "OFT": 1.000,
+        "RH": 82.200,
+        "TD": 4.374,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Falkaunsalpe",
+        "operator": "LWD Tirol",
+        "plot": "falkaunsalpe"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "91c3c894-a75c-0580-1d12-61a46fb063e7",
+      "geometry": {
+        "coordinates": [
+          11.658062,
+          47.120752,
+          2580.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.800,
+        "LT_MAX": 6.400,
+        "LT_MIN": 0.700,
+        "LWD-Region": "AT-07-15 Westliche Tuxer Alpen",
+        "RH": 99.700,
+        "TD": 1.758,
+        "WG": 11.089,
+        "WG_BOE": 23.400,
+        "WR": 16.231,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Wandspitze Windstation",
+        "operator": "LWD Tirol",
+        "plot": "wandspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "92aec241-eab0-9402-7dfc-c9a1972ed6d6",
+      "geometry": {
+        "coordinates": [
+          11.767481,
+          47.192132,
+          2538.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.700,
+        "LT_MAX": 5.900,
+        "LT_MIN": 1.300,
+        "LWD-Region": "AT-07-16 Östliche Tuxer Alpen",
+        "RH": 100.700,
+        "TD": 2.798,
+        "WG": 11.121,
+        "WG_BOE": 24.264,
+        "WR": 350.086,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Rastkogel Windstation",
+        "operator": "LWD Tirol",
+        "plot": "laemmerbichlalm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "942f599b-88d4-2734-ed52-e497385d472f",
+      "geometry": {
+        "coordinates": [
+          11.733761,
+          47.158386,
+          1261.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 11.500,
+        "LT_MAX": 17.900,
+        "LT_MIN": 8.200,
+        "LWD-Region": "AT-07-23 Nördliche Zillertaler Alpen",
+        "N24": 3.000,
+        "N48": 3.000,
+        "N6": 0.400,
+        "N72": 8.000,
+        "RH": 81.000,
+        "TD": 9.300,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Lanersbach",
+        "operator": "HD Tirol",
+        "plot": "lanersbach"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "94d82287-7e64-6bd0-178b-ea7211897cc4",
+      "geometry": {
+        "coordinates": [
+          10.6485770384695,
+          47.0967090651098,
+          1425.8
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 13.100,
+        "LT_MAX": 18.700,
+        "LT_MIN": 6.700,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Ladis Neuegg",
+        "operator": "HD Tirol",
+        "plot": "ladis"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "95ae660f-fa3a-43df-a50a-bc8710fb380f",
+      "geometry": {
+        "coordinates": [
+          12.5175,
+          47.1475,
+          2850.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 719.000,
+        "HS": 212.400,
+        "HSD24": -4.734,
+        "HSD48": -11.300,
+        "HSD72": -15.243,
+        "LT": 2.000,
+        "LT_MAX": 4.300,
+        "LT_MIN": 0.100,
+        "LWD-Region": "AT-07-24 Venedigergruppe",
+        "OFT": -2.100,
+        "RH": 89.900,
+        "TD": 0.521,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Hochgasser Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "hochgasser"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "964b3e66-d290-98ca-f855-f3225438e567",
+      "geometry": {
+        "coordinates": [
+          10.545645,
+          47.052584,
+          2660.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "WG": 11.811,
+        "WG_BOE": 18.684,
+        "WR": 318.676,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Planskopf",
+        "operator": "LWD Tirol",
+        "plot": "plojen"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "964bd33f-3bd9-e5db-23fe-c3be1326486e",
+      "geometry": {
+        "coordinates": [
+          12.3761051007859,
+          46.7678719221654,
+          1985.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 6.500,
+        "LT_MAX": 11.400,
+        "LT_MIN": 4.600,
+        "LWD-Region": "AT-07-27 Östliche Deferegger Alpen",
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Sillianberger Alm",
+        "operator": "HD Tirol",
+        "plot": "sillianbergeralm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "967ea24f-9d9d-fc98-a40e-154f479f735c",
+      "geometry": {
+        "coordinates": [
+          10.225528,
+          47.133236,
+          2150.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LWD-Region": "AT-07-07 Westliche Lechtaler Alpen",
+        "WG": 13.559,
+        "WG_BOE": 23.292,
+        "WR": 357.589,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Osthangbahn Young",
+        "operator": "LWD Tirol",
+        "plot": "galzig"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "96c66981-9a97-d8f5-0b19-5bda9dc87f96",
+      "geometry": {
+        "coordinates": [
+          12.3077069348208,
+          47.3830000297653,
+          1005.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 12.800,
+        "LT_MAX": 15.900,
+        "LT_MIN": 7.500,
+        "LWD-Region": "AT-07-17-02 Zentrale Kitzbüheler Alpen",
+        "RH": 94.000,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Aschau",
+        "operator": "HD Tirol",
+        "plot": "aschau"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "986e2d4a-7058-c335-9102-b1289ce99288",
+      "geometry": {
+        "coordinates": [
+          10.267623,
+          47.018201,
+          2292.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 532.400,
+        "HS": 75.500,
+        "HSD24": -4.200,
+        "HSD48": -9.200,
+        "HSD72": -15.150,
+        "LT": 4.500,
+        "LT_MAX": 8.300,
+        "LT_MIN": 1.800,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "OFT": -0.300,
+        "RH": 95.200,
+        "TD": 3.800,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Pischgraben",
+        "operator": "LWD Tirol",
+        "plot": "pischgraben"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "9a708855-b6c7-b1af-0e07-ae9116abfc91",
+      "geometry": {
+        "coordinates": [
+          11.296132,
+          47.137671,
+          2230.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 6.300,
+        "LT_MAX": 9.100,
+        "LT_MIN": 2.500,
+        "LWD-Region": "AT-07-14-04 Kalkkögel",
+        "RH": 92.000,
+        "TD": 5.099,
+        "WG": 2.146,
+        "WG_BOE": 11.160,
+        "WR": 321.066,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Sennjoch",
+        "operator": "LWD Tirol",
+        "plot": "schlickeralm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "9d202c22-5118-c728-1bf6-81b81988e0b9",
+      "geometry": {
+        "coordinates": [
+          10.5846472372784,
+          47.0653944409274,
+          2097.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 418.000,
+        "HS": 27.300,
+        "HSD24": -4.700,
+        "HSD48": -11.150,
+        "HSD72": -19.300,
+        "LT": 6.100,
+        "LT_MAX": 9.900,
+        "LT_MIN": 3.100,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "OFT": 0.000,
+        "RH": 85.400,
+        "TD": 3.840,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Fiss Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "fiss"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "9f2faaa5-9c72-71df-8820-4cda2eab7932",
+      "geometry": {
+        "coordinates": [
+          11.0103777777778,
+          46.87435,
+          2529.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 235.000,
+        "HS": 83.500,
+        "HSD24": -5.544,
+        "HSD48": -10.977,
+        "HSD72": -15.910,
+        "LT": 3.500,
+        "LT_MAX": 8.700,
+        "LT_MIN": 0.400,
+        "LWD-Region": "AT-07-21 Gurgler Gruppe",
+        "OFT": 0.800,
+        "RH": 99.900,
+        "TD": 3.486,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Sonnbergalm",
+        "operator": "LWD Tirol",
+        "plot": "obergurgl_sonn"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "9fbd7571-5e62-3728-4851-2441f0e8f743",
+      "geometry": {
+        "coordinates": [
+          11.095642,
+          47.156075,
+          2870.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.500,
+        "LT_MAX": 5.900,
+        "LT_MIN": -1.000,
+        "LWD-Region": "AT-07-14-03 Sellrain - Alpeiner Berge",
+        "RH": 101.100,
+        "TD": 1.652,
+        "WG": 2.962,
+        "WG_BOE": 10.404,
+        "WR": 59.923,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Lampsenspitze Windstation",
+        "operator": "LWD Tirol",
+        "plot": "lampsenspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "a0875cf6-cc8b-fa56-3bd0-b2ded1bf1370",
+      "geometry": {
+        "coordinates": [
+          10.9887833333333,
+          46.8813861111111,
+          3274.31
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 0.000,
+        "LT_MAX": 4.600,
+        "LT_MIN": -2.800,
+        "LWD-Region": "AT-07-21 Gurgler Gruppe",
+        "RH": 100.000,
+        "TD": 0.000,
+        "WG": 0.797,
+        "WG_BOE": 9.072,
+        "WR": 124.273,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Zirmkogel Windstation",
+        "operator": "LWD Tirol",
+        "plot": "obergurgl_sonn"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "a0d72b32-48f7-c4c2-c62f-47f637f8de9c",
+      "geometry": {
+        "coordinates": [
+          10.5662528047355,
+          47.1846749878816,
+          1941.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 244.000,
+        "HS": 29.900,
+        "HSD24": -8.667,
+        "HSD48": -12.350,
+        "HSD72": -18.900,
+        "LT": 7.200,
+        "LT_MAX": 11.500,
+        "LT_MIN": 4.100,
+        "LWD-Region": "AT-07-08 Zentrale Lechtaler Alpen",
+        "OFT": 3.300,
+        "RH": 87.400,
+        "TD": 5.251,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Silberspitze Schneemessung",
+        "operator": "LWD Tirol",
+        "plot": "silberspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "a6caebb4-9a9c-140f-d51e-9541ecdb1a00",
+      "geometry": {
+        "coordinates": [
+          10.472974893372,
+          47.1661461006238,
+          2968.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.800,
+        "LT_MAX": 6.600,
+        "LT_MIN": 0.500,
+        "LWD-Region": "AT-07-08 Zentrale Lechtaler Alpen",
+        "RH": 98.500,
+        "TD": 5.582,
+        "WG": 0.401,
+        "WG_BOE": 5.616,
+        "WR": 30.104,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Dawinkopf",
+        "operator": "LWD Tirol",
+        "plot": "dawinalpe"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "a825ba6a-5dcb-a73a-3006-e9429db4f75b",
+      "geometry": {
+        "coordinates": [
+          11.080385,
+          47.346295,
+          2580.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 186.300,
+        "HSD24": -3.254,
+        "HSD48": -9.935,
+        "HSD72": -15.438,
+        "LWD-Region": "AT-07-03 Mieminger Gebirge",
+        "WG": 2.210,
+        "WG_BOE": 13.896,
+        "WR": 44.969,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Hohe Munde Gipfel",
+        "operator": "LWD Tirol",
+        "plot": "hohemunde"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "a8f7c4a2-e47d-c51e-338a-f2e054302037",
+      "geometry": {
+        "coordinates": [
+          10.796,
+          47.0944,
+          2359.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.800,
+        "LT_MAX": 9.000,
+        "LT_MIN": 1.300,
+        "LWD-Region": "AT-07-14-01 Kaunergrat",
+        "RH": 100.200,
+        "TD": 3.828,
+        "WG": 3.575,
+        "WG_BOE": 10.008,
+        "WR": 272.195,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Burgbach Brechgrad",
+        "operator": "LWD Tirol/WLV",
+        "plot": "burgbach"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ab789cdc-b907-4570-8537-e43148604406",
+      "geometry": {
+        "coordinates": [
+          11.227903,
+          47.342025,
+          1745.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 7.100,
+        "LT_MAX": 13.200,
+        "LT_MIN": 5.500,
+        "LWD-Region": "AT-07-04-01 Westliches Karwendel",
+        "RH": 100.100,
+        "TD": 7.115,
+        "WG": 2.818,
+        "WG_BOE": 15.120,
+        "WR": 29.520,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Rosshütte Windstation",
+        "operator": "LWD Tirol",
+        "plot": "rosshuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ac2fc592-5366-a6a7-50ce-7cd8f0e5cf0f",
+      "geometry": {
+        "coordinates": [
+          10.31545,
+          47.129698,
+          1935.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 234.000,
+        "HS": 49.331,
+        "HSD24": -4.952,
+        "HSD48": -13.232,
+        "HSD72": -22.678,
+        "LT": 5.300,
+        "LT_MAX": 14.200,
+        "LT_MIN": 2.700,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "OFT": -0.200,
+        "RH": 82.700,
+        "TD": 2.602,
+        "date": "2023-05-08T10:00:00+02:00",
+        "name": "Äußere Rendlalpe",
+        "operator": "LWD Tirol",
+        "plot": "stanton_hochkar"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b1036815-e880-d61f-8e98-a4262b7b86d5",
+      "geometry": {
+        "coordinates": [
+          10.177635,
+          46.885912,
+          2172.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 661.000,
+        "HS": 79.200,
+        "HSD24": -0.961,
+        "HSD48": -6.647,
+        "HSD72": -13.289,
+        "LT": 6.000,
+        "LT_MAX": 9.300,
+        "LT_MIN": 2.200,
+        "LWD-Region": "AT-07-12 Silvretta",
+        "OFT": 2.900,
+        "RH": 81.400,
+        "TD": 3.063,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Jamtalhütte Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "jamtalhuette_gamshorn"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b1c359e1-74d7-cf01-4b56-6040722db375",
+      "geometry": {
+        "coordinates": [
+          10.558773,
+          47.041396,
+          2065.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 508.000,
+        "HS": 4.800,
+        "HSD24": -9.600,
+        "HSD48": -17.327,
+        "HSD72": -23.210,
+        "LD": 807.000,
+        "LT": 7.000,
+        "LT_MAX": 13.200,
+        "LT_MIN": 3.200,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "RH": 99.100,
+        "TD": 6.868,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Plojen",
+        "operator": "LWD Tirol",
+        "plot": "plojen"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b27f27e9-5616-4477-0d9c-fb825a3df992",
+      "geometry": {
+        "coordinates": [
+          12.622713069675,
+          46.7243364999473,
+          2105.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 5.200,
+        "LT_MAX": 8.200,
+        "LT_MIN": 4.100,
+        "LWD-Region": "AT-07-29 Lienzer Dolomiten",
+        "RH": 94.000,
+        "WG": 5.432,
+        "WG_BOE": 20.520,
+        "WR": 66.777,
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Connyalm Windstation",
+        "operator": "LWD Tirol",
+        "plot": "connyalm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b36a4506-23e8-bc0e-72e1-809bec2f69b6",
+      "geometry": {
+        "coordinates": [
+          10.851829,
+          47.387088,
+          1871.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 6.200,
+        "LT_MAX": 10.000,
+        "LT_MIN": 4.400,
+        "LWD-Region": "AT-07-02-02 Östliche Lechtaler Alpen",
+        "RH": 100.400,
+        "TD": 6.258,
+        "WG": 3.794,
+        "WG_BOE": 10.872,
+        "WR": 32.064,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Grubigstein Windstation",
+        "operator": "LWD Tirol",
+        "plot": "grubigstein"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b4762934-0d51-3f56-9e0b-b4cad3213f78",
+      "geometry": {
+        "coordinates": [
+          10.4828,
+          47.0725,
+          1985.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 237.000,
+        "HS": 14.800,
+        "HSD24": -8.900,
+        "HSD48": -17.291,
+        "HSD72": -25.450,
+        "LT": 6.500,
+        "LT_MAX": 15.100,
+        "LT_MIN": 3.300,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "OFT": 3.000,
+        "RH": 88.400,
+        "TD": 4.725,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Medrig-Zeinis",
+        "operator": "LWD Tirol",
+        "plot": "medrig"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b52b4a83-f262-1ee6-3087-9432fd17424f",
+      "geometry": {
+        "coordinates": [
+          11.762127,
+          47.441861,
+          1824.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 106.000,
+        "HS": 1.000,
+        "HSD24": -5.956,
+        "HSD48": -12.500,
+        "HSD72": -26.000,
+        "LT": 7.300,
+        "LT_MAX": 9.600,
+        "LT_MIN": 4.100,
+        "LWD-Region": "AT-07-05 Brandenberger Alpen",
+        "OFT": 11.500,
+        "RH": 93.500,
+        "TD": 6.323,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Erfurter Hütte",
+        "operator": "LWD Tirol",
+        "plot": "erfurterhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b53a3f24-fc5c-5e61-b062-f9d982f9db03",
+      "geometry": {
+        "coordinates": [
+          12.5927578681143,
+          47.5104836417173,
+          868.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 14.475,
+        "LT_MAX": 16.933,
+        "LT_MIN": 5.967,
+        "LWD-Region": "AT-07-06 Wilder Kaiser - Waidringer Alpen",
+        "N24": 5.700,
+        "N48": 6.100,
+        "N6": 0.000,
+        "N72": 19.800,
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "St Ulrich am Pillersee",
+        "operator": "HD Tirol",
+        "plot": "stulrichampillersee"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b560e2b4-c967-c3af-9f00-7fdf74289c2d",
+      "geometry": {
+        "coordinates": [
+          11.303207,
+          47.154432,
+          1645.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 157.000,
+        "HS": 10.600,
+        "HSD24": 1.875,
+        "HSD48": 2.041,
+        "HSD72": -0.161,
+        "LT": 6.600,
+        "LT_MAX": 13.000,
+        "LT_MIN": 3.900,
+        "LWD-Region": "AT-07-14-04 Kalkkögel",
+        "OFT": 24.300,
+        "RH": 97.500,
+        "TD": 6.233,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Schlicker Alm",
+        "operator": "LWD Tirol",
+        "plot": "schlickeralm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b6f81ac4-6c76-abcb-fec0-2121ba9321df",
+      "geometry": {
+        "coordinates": [
+          10.8528,
+          47.0339,
+          2410.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 4.700,
+        "LT_MAX": 9.100,
+        "LT_MIN": 1.300,
+        "LWD-Region": "AT-07-14-01 Kaunergrat",
+        "RH": 98.100,
+        "TD": 4.426,
+        "WG": 2.219,
+        "WG_BOE": 7.308,
+        "WR": 353.224,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Seirlöcher Kogel",
+        "operator": "LWD Tirol",
+        "plot": "seirloecherkogel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b982f75a-a197-ac99-13f2-52cea3f0d77e",
+      "geometry": {
+        "coordinates": [
+          12.00693,
+          47.365126,
+          1957.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 7.000,
+        "LT_MAX": 12.000,
+        "LT_MIN": 6.200,
+        "LWD-Region": "AT-07-17-01 Westliche Kitzbüheler Alpen",
+        "RH": 103.500,
+        "TD": 7.502,
+        "WG": 8.239,
+        "WG_BOE": 26.460,
+        "WR": 84.100,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Saupanzen",
+        "operator": "LWD Tirol",
+        "plot": "kleinerbeil"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "b9b23e67-c13a-eab8-3c72-b4be145fd166",
+      "geometry": {
+        "coordinates": [
+          10.870003,
+          46.816395,
+          3453.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": -1.000,
+        "LT_MAX": 0.800,
+        "LT_MIN": -3.100,
+        "LWD-Region": "AT-07-21 Gurgler Gruppe",
+        "RH": 98.000,
+        "TD": -1.275,
+        "WG": 0.411,
+        "WG_BOE": 6.516,
+        "WR": 286.284,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Sölden Kreuzspitze",
+        "operator": "LWD Tirol",
+        "plot": "soelden_kreuzspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "bd4a6606-6f78-78bd-5a23-3b9001b78b27",
+      "geometry": {
+        "coordinates": [
+          10.6896588085713,
+          47.2556034175354,
+          1564.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 9.100,
+        "LT_MAX": 16.200,
+        "LT_MIN": 5.200,
+        "LWD-Region": "AT-07-02-02 Östliche Lechtaler Alpen",
+        "N24": 13.600,
+        "N48": 13.600,
+        "N6": 0.500,
+        "N72": 26.100,
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Imst-Obermarkter Alm",
+        "operator": "HD Tirol",
+        "plot": "imst_obermarkteralm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "bff84a72-07fc-93f0-1037-e44a5487a255",
+      "geometry": {
+        "coordinates": [
+          10.313718,
+          47.114241,
+          2745.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 0.200,
+        "LT_MAX": 6.500,
+        "LT_MIN": -0.700,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "RH": 100.000,
+        "TD": 0.200,
+        "WG": 4.656,
+        "WG_BOE": 8.712,
+        "WR": 2.071,
+        "date": "2023-05-08T10:30:00+02:00",
+        "name": "Hochkar",
+        "operator": "LWD Tirol",
+        "plot": "stanton_hochkar"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c0e71758-9b91-49ff-75ab-cff6b2848f6e",
+      "geometry": {
+        "coordinates": [
+          10.599505,
+          47.076591,
+          2485.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.800,
+        "LT_MAX": 6.100,
+        "LT_MIN": -0.100,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "RH": 98.700,
+        "TD": 1.618,
+        "WG": 14.364,
+        "WG_BOE": 25.128,
+        "WR": 326.884,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Fiss Windstation",
+        "operator": "LWD Tirol",
+        "plot": "fiss"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c4820567-57ce-c41f-78c6-7aae7ffcbaa0",
+      "geometry": {
+        "coordinates": [
+          10.7531618024833,
+          47.0429236224031,
+          1269.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": -7.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 13.200,
+        "LT_MAX": 19.800,
+        "LT_MIN": 7.300,
+        "LWD-Region": "AT-07-14-01 Kaunergrat",
+        "N24": 6.200,
+        "N48": 6.700,
+        "N6": 0.200,
+        "N72": 11.500,
+        "RH": 75.000,
+        "TD": 9.300,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Kaunertal Vergötschen",
+        "operator": "HD Tirol",
+        "plot": "kaunertal_vergoetschen"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c5147dfa-75a0-d095-7b4e-f0e36a5abb89",
+      "geometry": {
+        "coordinates": [
+          10.5433065523939,
+          47.3577627351902,
+          954.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 14.600,
+        "LT_MAX": 20.100,
+        "LT_MIN": 8.200,
+        "LWD-Region": "AT-07-01 Allgäuer Alpen",
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Elmen-Martinau",
+        "operator": "HD Tirol",
+        "plot": "vorderhornbach"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c652a401-1a25-b7bb-6311-463e35b30f30",
+      "geometry": {
+        "coordinates": [
+          12.1381931165776,
+          47.3857231850044,
+          801.4
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 14.500,
+        "LT_MAX": 20.500,
+        "LT_MIN": 8.900,
+        "LWD-Region": "AT-07-17-02 Zentrale Kitzbüheler Alpen",
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Kelchsau",
+        "operator": "HD Tirol",
+        "plot": "kelchsau"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c67b905f-bd74-4796-42a3-c53c2e895601",
+      "geometry": {
+        "coordinates": [
+          11.316349,
+          47.194818,
+          2098.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.900,
+        "LT_MAX": 7.700,
+        "LT_MIN": 1.200,
+        "LWD-Region": "AT-07-14-04 Kalkkögel",
+        "RH": 42.500,
+        "TD": -8.572,
+        "WG": 2.946,
+        "WG_BOE": 16.236,
+        "WR": 52.683,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Birgitzköpfl",
+        "operator": "LWD Tirol",
+        "plot": "birgitzkoepfl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c7090291-4792-77cd-d84c-25bce6b29118",
+      "geometry": {
+        "coordinates": [
+          10.3452388917927,
+          47.0791083428996,
+          2380.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 556.000,
+        "HS": 118.900,
+        "HSD24": -4.286,
+        "HSD48": -10.242,
+        "HSD72": -16.900,
+        "LT": 3.500,
+        "LT_MAX": 8.300,
+        "LT_MIN": 0.700,
+        "LWD-Region": "AT-07-11 Östliche Verwallgruppe",
+        "OFT": -0.800,
+        "RH": 88.000,
+        "TD": 1.705,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Dias",
+        "operator": "LWD Tirol",
+        "plot": "dias"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c72efd36-989f-f755-af01-e8a0794255f1",
+      "geometry": {
+        "coordinates": [
+          10.9211000089129,
+          46.8735999798742,
+          2200.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 107.000,
+        "HS": 8.700,
+        "HSD24": -0.408,
+        "HSD48": -0.499,
+        "HSD72": -0.150,
+        "LT": 7.500,
+        "LT_MAX": 12.300,
+        "LT_MIN": 1.300,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "OFT": 16.600,
+        "RH": 84.900,
+        "TD": 5.129,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Vorderegg",
+        "operator": "LWD Tirol",
+        "plot": "vorderegg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c73a2c8a-5d74-0933-e906-53c40e2fd6c5",
+      "geometry": {
+        "coordinates": [
+          11.9951885117421,
+          47.2632337937377,
+          2123.6
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 35.000,
+        "HSD24": -6.000,
+        "HSD48": -13.000,
+        "HSD72": -18.000,
+        "LT": 4.100,
+        "LT_MAX": 5.500,
+        "LT_MIN": 0.000,
+        "LWD-Region": "AT-07-17-01 Westliche Kitzbüheler Alpen",
+        "N24": 8.100,
+        "N48": 8.100,
+        "N6": 0.300,
+        "N72": 19.200,
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Wilde Krimml",
+        "operator": "HD Tirol",
+        "plot": "wildekrimml"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c88961a6-b408-d881-4593-0c2ed8198453",
+      "geometry": {
+        "coordinates": [
+          12.522012,
+          47.14963,
+          2910.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.700,
+        "LT_MAX": 6.300,
+        "LT_MIN": -0.700,
+        "LWD-Region": "AT-07-24 Venedigergruppe",
+        "RH": 1.300,
+        "TD": -45.964,
+        "WG": 9.799,
+        "WG_BOE": 17.676,
+        "WR": 54.180,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Hochgasser Windstation",
+        "operator": "LWD Tirol",
+        "plot": "hochgasser"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "c988bb2a-ca14-8758-97d9-a9dcb81ca210",
+      "geometry": {
+        "coordinates": [
+          11.295764,
+          47.288393,
+          1646.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 204.000,
+        "HS": 9.200,
+        "HSD24": 1.050,
+        "HSD48": 1.050,
+        "HSD72": 1.800,
+        "LT": 8.700,
+        "LT_MAX": 15.600,
+        "LT_MIN": 6.700,
+        "LWD-Region": "AT-07-04-01 Westliches Karwendel",
+        "OFT": 13.300,
+        "RH": 98.900,
+        "TD": 8.537,
+        "date": "2023-05-08T15:40:00+02:00",
+        "name": "Magdeburger Hütte",
+        "operator": "LWD Tirol/ÖBB",
+        "plot": "hechenberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "cc6b06f1-9cd9-6eb4-b2ac-426f988029ca",
+      "geometry": {
+        "coordinates": [
+          10.266202,
+          47.077738,
+          1895.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 213.000,
+        "HS": 27.100,
+        "HSD24": -6.850,
+        "HSD48": -12.000,
+        "HSD72": -21.668,
+        "LD": 815.000,
+        "LT": 10.200,
+        "LT_MAX": 14.500,
+        "LT_MIN": 3.500,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "RH": 68.000,
+        "TD": 4.566,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Rendl Riffel 1",
+        "operator": "LWD Tirol",
+        "plot": "rendl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "cdeb7dcc-739b-62ab-b1d2-4cd0396f6eab",
+      "geometry": {
+        "coordinates": [
+          10.1754252357467,
+          46.8870426863789,
+          2141.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 220.264,
+        "GS_U": 116.369,
+        "HS": 10.000,
+        "HSD24": -6.000,
+        "HSD48": -10.000,
+        "HSD72": -16.000,
+        "LT": 7.400,
+        "LT_MAX": 12.700,
+        "LT_MIN": 2.500,
+        "LWD-Region": "AT-07-12 Silvretta",
+        "N24": 3.900,
+        "N48": 10.100,
+        "N6": 0.000,
+        "N72": 18.100,
+        "OFT": 1.100,
+        "RH": 86.000,
+        "TD": 3.055,
+        "WG": 1.524,
+        "WG_BOE": 8.280,
+        "WR": 24.307,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Jamtalhütte",
+        "operator": "LWD Tirol/HD Tirol",
+        "plot": "jamtalhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "cdf46d25-744a-66a5-3af3-3e838cbb4cc7",
+      "geometry": {
+        "coordinates": [
+          11.648053,
+          47.093149,
+          2100.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LWD-Region": "AT-07-15 Westliche Tuxer Alpen",
+        "name": "Tuxerjoch Erfassung",
+        "operator": "LWD Tirol",
+        "plot": "tuxerjoch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ceaee63b-8f00-9082-05c2-8e658bc1669a",
+      "geometry": {
+        "coordinates": [
+          11.178164,
+          47.027353,
+          2520.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 289.400,
+        "HS": 62.000,
+        "HSD24": -2.603,
+        "HSD48": -6.622,
+        "HSD72": -10.052,
+        "LT": 2.200,
+        "LT_MAX": 8.000,
+        "LT_MIN": 1.000,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "OFT": -0.200,
+        "RH": 100.200,
+        "TD": 2.228,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Schöckbichl",
+        "operator": "LWD Tirol",
+        "plot": "schoeckbichl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "cfef49d8-13bf-e174-335c-4513c431424d",
+      "geometry": {
+        "coordinates": [
+          11.9556069009091,
+          47.5853638335261,
+          1323.6
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": -1.000,
+        "HSD72": -1.000,
+        "LT": 10.300,
+        "LT_MAX": 12.200,
+        "LT_MIN": 7.800,
+        "LWD-Region": "AT-07-05 Brandenberger Alpen",
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Ackernalm",
+        "operator": "HD Tirol",
+        "plot": "ackernalm"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "d02a7117-369b-6fa4-9fca-ff1a7684d831",
+      "geometry": {
+        "coordinates": [
+          10.248778,
+          47.01712,
+          2907.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.400,
+        "LT_MAX": 5.600,
+        "LT_MIN": -1.300,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "RH": 100.700,
+        "TD": 1.497,
+        "WG": 1.461,
+        "WG_BOE": 7.812,
+        "WR": 307.662,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Madleinkopf",
+        "operator": "LWD Tirol",
+        "plot": "pischgraben"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "d1ba9959-d227-a173-a3ea-be150c514940",
+      "geometry": {
+        "coordinates": [
+          12.2375760601739,
+          47.6719863645385,
+          980.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 11.200,
+        "LT_MAX": 16.800,
+        "LT_MIN": 10.300,
+        "LWD-Region": "AT-07-06 Wilder Kaiser - Waidringer Alpen",
+        "date": "2023-05-08T15:55:00+02:00",
+        "name": "Niederndorferberg",
+        "operator": "HD Tirol",
+        "plot": "niederndorferberg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "d1f421c4-d4d3-0cde-44b5-6302e2f801e8",
+      "geometry": {
+        "coordinates": [
+          11.7520860065085,
+          47.2750109996503,
+          2060.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 222.000,
+        "HS": 63.300,
+        "HSD24": -3.600,
+        "HSD48": -10.350,
+        "HSD72": -15.770,
+        "LT": 4.700,
+        "LT_MAX": 8.200,
+        "LT_MIN": 3.300,
+        "LWD-Region": "AT-07-16 Östliche Tuxer Alpen",
+        "OFT": -1.600,
+        "RH": 100.600,
+        "TD": 4.786,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Sonntagsköpfl",
+        "operator": "LWD Tirol",
+        "plot": "sonntagskoepfl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "d23dbf74-1f6b-5c37-337e-0875ba456823",
+      "geometry": {
+        "coordinates": [
+          10.9367555890495,
+          46.9325583979892,
+          2970.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 309.000,
+        "HSD24": 5.000,
+        "HSD48": 2.300,
+        "HSD72": -3.050,
+        "LT": 2.000,
+        "LT_MAX": 8.100,
+        "LT_MIN": -0.400,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "RH": 90.000,
+        "TD": 0.537,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Rettenbachferner",
+        "operator": "LWD Tirol",
+        "plot": "rettenbach"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "d3146059-2c19-907c-6b04-ef180da3d316",
+      "geometry": {
+        "coordinates": [
+          11.325632,
+          47.053101,
+          2444.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.100,
+        "LT_MAX": 7.100,
+        "LT_MIN": 0.800,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "RH": 108.300,
+        "TD": 3.220,
+        "WG": 12.661,
+        "WG_BOE": 17.964,
+        "WR": 314.168,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kalkwand",
+        "operator": "LWD Tirol",
+        "plot": "gallreideschrofen"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "d76794f6-f8bd-72ab-a449-99b347e88103",
+      "geometry": {
+        "coordinates": [
+          10.495924,
+          47.063004,
+          2680.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.400,
+        "LT_MAX": 8.800,
+        "LT_MIN": 0.200,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "RH": 101.400,
+        "TD": 3.597,
+        "WG": 1.026,
+        "WG_BOE": 8.496,
+        "WR": 57.962,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Medrigkopf",
+        "operator": "LWD Tirol",
+        "plot": "medrig"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "da2c8992-ad3f-33eb-99ce-b6bd3b87b8ff",
+      "geometry": {
+        "coordinates": [
+          10.829492,
+          47.434757,
+          1760.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 238.000,
+        "HS": 42.500,
+        "HSD24": -5.531,
+        "HSD48": -17.296,
+        "HSD72": -14.295,
+        "LT": 7.500,
+        "LT_MAX": 11.100,
+        "LT_MIN": 4.700,
+        "LWD-Region": "AT-07-02-01 Ammergauer Alpen",
+        "OFT": 2.700,
+        "RH": 94.500,
+        "TD": 6.676,
+        "WG": 1.117,
+        "WG_BOE": 7.560,
+        "WR": 39.528,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Wiesjoch",
+        "operator": "LWD Tirol",
+        "plot": "wiesjoch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "db29086f-9e3a-f6d1-dfc9-7c46ec741e95",
+      "geometry": {
+        "coordinates": [
+          10.7181,
+          47.04,
+          2700.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.200,
+        "LT_MAX": 6.000,
+        "LT_MIN": -1.100,
+        "LWD-Region": "AT-07-14-01 Kaunergrat",
+        "RH": 103.800,
+        "TD": 1.719,
+        "WG": 1.843,
+        "WG_BOE": 12.348,
+        "WR": 287.711,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Roter Schrofen",
+        "operator": "LWD Tirol",
+        "plot": "falkaunsalpe"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "dbe2a457-0c46-33bb-eb32-30b50566313c",
+      "geometry": {
+        "coordinates": [
+          12.584625,
+          46.9900139,
+          2081.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 212.000,
+        "HS": 34.200,
+        "HSD24": -4.471,
+        "HSD48": -11.002,
+        "HSD72": -16.800,
+        "LT": 5.700,
+        "LT_MAX": 10.100,
+        "LT_MIN": 3.500,
+        "LWD-Region": "AT-07-26 Glocknergruppe",
+        "OFT": 0.900,
+        "RH": 86.300,
+        "TD": 3.595,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Goldried Kessel",
+        "operator": "LWD Tirol",
+        "plot": "goldriedkessel"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "dc97209-b1bb-98d-a69e-5fd04d96ed2",
+      "geometry": {
+        "coordinates": [
+          10.938308,
+          46.918511,
+          2898.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 811.000,
+        "HS": 96.500,
+        "HSD24": 2.953,
+        "HSD48": 1.400,
+        "HSD72": -0.650,
+        "LT": 3.300,
+        "LT_MAX": 9.000,
+        "LT_MIN": -1.200,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "N24": 30.400,
+        "N48": 32.800,
+        "N6": 0.400,
+        "N72": 36.200,
+        "OFT": 0.600,
+        "RH": 77.000,
+        "TD": -0.336,
+        "date": "2023-05-08T15:40:00+02:00",
+        "name": "Speicherteich Panorama",
+        "operator": "LWD Tirol",
+        "plot": "speicherteich_panorama"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "dd449fb2-84b5-7e0a-c3be-1e7e07fd04f6",
+      "geometry": {
+        "coordinates": [
+          11.661969,
+          47.121858,
+          2490.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 344.000,
+        "HS": 127.600,
+        "HSD24": -5.080,
+        "HSD48": -11.500,
+        "HSD72": -14.159,
+        "LT": 2.300,
+        "LT_MAX": 8.700,
+        "LT_MIN": 1.100,
+        "LWD-Region": "AT-07-15 Westliche Tuxer Alpen",
+        "OFT": -1.000,
+        "RH": 99.100,
+        "TD": 2.173,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Wandspitze Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "wandspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "dd47ae8b-054e-e7f0-4013-bad33013c3ba",
+      "geometry": {
+        "coordinates": [
+          12.6017,
+          47.0164,
+          2335.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.800,
+        "LT_MAX": 8.000,
+        "LT_MIN": 1.300,
+        "LWD-Region": "AT-07-26 Glocknergruppe",
+        "RH": 101.100,
+        "TD": 2.954,
+        "WG": 0.650,
+        "WG_BOE": 5.904,
+        "WR": 129.625,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Ganotzkogel",
+        "operator": "LWD Tirol",
+        "plot": "figol"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "dd797d9a-6801-fdbc-c124-fc74649cffa8",
+      "geometry": {
+        "coordinates": [
+          11.152817,
+          47.394844,
+          1539.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 49.000,
+        "HS": 4.200,
+        "HSD24": -0.450,
+        "HSD48": -0.283,
+        "HSD72": -0.206,
+        "LT": 7.100,
+        "LT_MAX": 13.500,
+        "LT_MIN": 5.300,
+        "LWD-Region": "AT-07-03 Mieminger Gebirge",
+        "OFT": 10.100,
+        "RH": 100.700,
+        "TD": 7.202,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Puitegg",
+        "operator": "LWD Tirol",
+        "plot": "puitegg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "deaa2fb0-36d6-00c5-0bb3-0d97b91dbe2c",
+      "geometry": {
+        "coordinates": [
+          10.338597,
+          47.084584,
+          2620.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.400,
+        "LT_MAX": 6.900,
+        "LT_MIN": -2.800,
+        "LWD-Region": "AT-07-11 Östliche Verwallgruppe",
+        "RH": 99.800,
+        "TD": 1.372,
+        "WG": 6.397,
+        "WG_BOE": 13.716,
+        "WR": 304.822,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Lattejoch",
+        "operator": "LWD Tirol",
+        "plot": "dias"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e092fc9b-53a2-02af-87b7-88c2c88df7de",
+      "geometry": {
+        "coordinates": [
+          10.211916,
+          47.147023,
+          2205.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 410.000,
+        "HS": 205.200,
+        "HSD24": -4.300,
+        "HSD48": -8.230,
+        "HSD72": -13.363,
+        "LT": 159.600,
+        "LT_MAX": 160.700,
+        "LT_MIN": 159.600,
+        "LWD-Region": "AT-07-07 Westliche Lechtaler Alpen",
+        "OFT": -0.900,
+        "RH": 210.100,
+        "TD": 190.350,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Ulmerhütte",
+        "operator": "LWD Tirol",
+        "plot": "ulmerhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e1506f47-cf55-bc14-286d-ac987a24d58a",
+      "geometry": {
+        "coordinates": [
+          11.044191,
+          46.859532,
+          2680.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 465.000,
+        "HS": 53.700,
+        "HSD24": -4.055,
+        "HSD48": -8.863,
+        "HSD72": -12.781,
+        "LT": 3.600,
+        "LT_MAX": 10.900,
+        "LT_MIN": 0.000,
+        "LWD-Region": "AT-07-21 Gurgler Gruppe",
+        "OFT": -1.400,
+        "RH": 95.400,
+        "TD": 2.935,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Rosskar",
+        "operator": "LWD Tirol",
+        "plot": "rosskar"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e1c51131-f5af-1eed-5de9-5da126167b9e",
+      "geometry": {
+        "coordinates": [
+          11.2909055472649,
+          47.0732500118197,
+          2142.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 292.000,
+        "HS": 120.150,
+        "HSD24": -25.079,
+        "HSD48": -6.257,
+        "HSD72": -14.288,
+        "LT": 5.500,
+        "LT_MAX": 11.000,
+        "LT_MIN": 2.500,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "OFT": 3.400,
+        "RH": 92.000,
+        "TD": 4.306,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Elferspitze Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "elferspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e271dcc5-3d2f-7d95-f1de-45fbcc6d7de6",
+      "geometry": {
+        "coordinates": [
+          12.432546,
+          47.46706,
+          1760.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 6.200,
+        "LT_MAX": 10.300,
+        "LT_MIN": 5.300,
+        "LWD-Region": "AT-07-18 Östliche Kitzbüheler Alpen",
+        "RH": 100.400,
+        "TD": 6.258,
+        "WG": 9.528,
+        "WG_BOE": 32.184,
+        "WR": 28.279,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kitzbühel Hornköpfl",
+        "operator": "LWD Tirol",
+        "plot": "kitzbuehler_horn"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e33b094c-95e9-2cea-ea31-a1479147e94a",
+      "geometry": {
+        "coordinates": [
+          10.862333,
+          47.336922,
+          2484.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.500,
+        "LT_MAX": 6.200,
+        "LT_MIN": 1.000,
+        "LWD-Region": "AT-07-03 Mieminger Gebirge",
+        "RH": 100.300,
+        "TD": 3.542,
+        "WG": 2.254,
+        "WG_BOE": 7.668,
+        "WR": 166.033,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Nassereith Wannig",
+        "operator": "LWD Tirol",
+        "plot": "nassereith"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e61a455b-e516-aa50-779f-bf773995a23f",
+      "geometry": {
+        "coordinates": [
+          12.5823631916506,
+          46.6600159329678,
+          1935.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 9.000,
+        "HSD24": -11.000,
+        "HSD48": -21.000,
+        "HSD72": -28.000,
+        "LT": 5.400,
+        "LT_MAX": 8.600,
+        "LT_MIN": 4.800,
+        "LWD-Region": "AT-07-29 Lienzer Dolomiten",
+        "N24": 4.700,
+        "N48": 13.200,
+        "N6": 0.400,
+        "N72": 17.800,
+        "date": "2023-05-08T13:00:00+02:00",
+        "name": "Porzehütte",
+        "operator": "HD Tirol",
+        "plot": "obertilliach_porzehuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e70716ec-b868-f46d-633a-e4d2542b7c14",
+      "geometry": {
+        "coordinates": [
+          10.938071,
+          46.89172,
+          2540.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.400,
+        "LT_MAX": 8.200,
+        "LT_MIN": 0.100,
+        "LWD-Region": "AT-07-20 Weißkugelgruppe",
+        "RH": 99.600,
+        "TD": 3.343,
+        "WG": 16.478,
+        "WG_BOE": 25.956,
+        "WR": 66.817,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Marchkofel",
+        "operator": "LWD Tirol",
+        "plot": "vorderegg"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e7a432ea-8b7b-a6e5-d52c-22fb2e8ef6d0",
+      "geometry": {
+        "coordinates": [
+          10.572525,
+          47.1841972222222,
+          2457.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 4.100,
+        "LT_MAX": 8.300,
+        "LT_MIN": 1.100,
+        "LWD-Region": "AT-07-08 Zentrale Lechtaler Alpen",
+        "RH": 100.200,
+        "TD": 4.128,
+        "WG": 0.371,
+        "WG_BOE": 6.156,
+        "WR": 315.455,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Silberspitze Windstation",
+        "operator": "LWD Tirol",
+        "plot": "silberspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e8b42ce4-3fc3-5c3a-c16f-7429f7350b78",
+      "geometry": {
+        "coordinates": [
+          12.3836,
+          46.775,
+          2408.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.900,
+        "LT_MAX": 4.400,
+        "LT_MIN": 1.100,
+        "LWD-Region": "AT-07-27 Östliche Deferegger Alpen",
+        "RH": 98.000,
+        "TD": 1.618,
+        "WG": 14.819,
+        "WG_BOE": 26.496,
+        "WR": 192.236,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Thurntaler Windstation",
+        "operator": "LWD Tirol",
+        "plot": "thurntaler"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "e970db33-6681-c703-3d1f-9d6b99d6d234",
+      "geometry": {
+        "coordinates": [
+          10.570519,
+          46.889031,
+          2668.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.500,
+        "LT_MAX": 5.400,
+        "LT_MIN": -0.600,
+        "LWD-Region": "AT-07-19 Glockturmgruppe",
+        "RH": 100.700,
+        "TD": 1.597,
+        "WG": 11.239,
+        "WG_BOE": 18.900,
+        "WR": 35.221,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Tscheyegg",
+        "operator": "LWD Tirol",
+        "plot": "valdafur"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "eac20279-e2fe-0e71-4dc0-fd2b57e6846f",
+      "geometry": {
+        "coordinates": [
+          11.104943,
+          47.345909,
+          1605.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 248.000,
+        "HS": 5.500,
+        "HSD24": 1.582,
+        "HSD48": 1.700,
+        "HSD72": 1.051,
+        "LT": 9.300,
+        "LT_MAX": 14.600,
+        "LT_MIN": 6.100,
+        "LWD-Region": "AT-07-03 Mieminger Gebirge",
+        "OFT": 19.200,
+        "RH": 93.600,
+        "TD": 8.322,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Rauthhütte",
+        "operator": "LWD Tirol",
+        "plot": "rauthhuette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "eadf72b0-3690-83a1-4261-eb7cf53401c3",
+      "geometry": {
+        "coordinates": [
+          10.4884777380654,
+          47.0201111538738,
+          2491.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 524.000,
+        "HS": 159.200,
+        "HSD24": -7.168,
+        "HSD48": -10.300,
+        "HSD72": -19.149,
+        "LT": 2.900,
+        "LT_MAX": 7.100,
+        "LT_MIN": 0.900,
+        "LWD-Region": "AT-07-13 Samnaungruppe",
+        "OFT": -1.100,
+        "RH": 98.600,
+        "TD": 2.702,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Serfaus Masner",
+        "operator": "LWD Tirol",
+        "plot": "serfaus"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ec2c92a6-6a06-df84-aca2-f6a7fcad8df8",
+      "geometry": {
+        "coordinates": [
+          10.462350017993,
+          47.1503195001747,
+          1910.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LWD-Region": "AT-07-08 Zentrale Lechtaler Alpen",
+        "name": "Dawinalpe",
+        "operator": "LWD Tirol",
+        "plot": "dawinalpe"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ed127db2-aa38-9c3b-e2c2-26fcc2ff726f",
+      "geometry": {
+        "coordinates": [
+          12.01605,
+          47.351489,
+          1880.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 70.000,
+        "HS": 34.000,
+        "HSD24": -7.000,
+        "HSD48": -12.759,
+        "HSD72": -19.854,
+        "LT": 4.900,
+        "LT_MAX": 9.200,
+        "LT_MIN": 2.400,
+        "LWD-Region": "AT-07-17-01 Westliche Kitzbüheler Alpen",
+        "OFT": 3.400,
+        "RH": 100.300,
+        "TD": 4.943,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kleiner Beil",
+        "operator": "LWD Tirol",
+        "plot": "kleinerbeil"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "edee7151-0f19-94ed-9e04-d455177dd851",
+      "geometry": {
+        "coordinates": [
+          12.4176138418407,
+          47.0228555816836,
+          2450.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 353.000,
+        "HS": 79.400,
+        "HSD24": -4.390,
+        "HSD48": -7.550,
+        "HSD72": -12.149,
+        "LT": 5.700,
+        "LT_MAX": 10.000,
+        "LT_MIN": 3.500,
+        "LWD-Region": "AT-07-24 Venedigergruppe",
+        "OFT": -0.300,
+        "RH": 88.600,
+        "TD": 3.968,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Eselrücken",
+        "operator": "LWD Tirol",
+        "plot": "eselruecken"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ee6b4ef0-cea0-d7ad-291f-dd4ecaa0cc50",
+      "geometry": {
+        "coordinates": [
+          11.106927,
+          46.987323,
+          3010.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 6.800,
+        "LT_MAX": 12.700,
+        "LT_MIN": -1.300,
+        "LWD-Region": "AT-07-22 Zentrale Stubaier Alpen",
+        "RH": 81.200,
+        "TD": 3.809,
+        "WG": 0.882,
+        "WG_BOE": 18.972,
+        "WR": 56.732,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Rotadl",
+        "operator": "LWD Tirol",
+        "plot": "stubaiergletscher_eisgrat"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "efdd3176-17d4-6e3d-f6fa-3f3a0da95412",
+      "geometry": {
+        "coordinates": [
+          12.6260810225391,
+          47.0148340300872,
+          1742.73
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 47.000,
+        "GS_U": 21.000,
+        "HS": -0.100,
+        "HSD24": -7.250,
+        "HSD48": -13.000,
+        "HSD72": -17.500,
+        "LT": 9.000,
+        "LT_MAX": 12.500,
+        "LT_MIN": 4.500,
+        "LWD-Region": "AT-07-26 Glocknergruppe",
+        "OFT": 7.300,
+        "RH": 79.000,
+        "TD": 5.559,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kals am Großglockner-Figol",
+        "operator": "LWD Tirol/HD Tirol",
+        "plot": "figol"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "f0b75c71-589c-9450-65bd-9e292e9f7c4b",
+      "geometry": {
+        "coordinates": [
+          11.3134638888889,
+          47.0827111111111,
+          2440.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.100,
+        "LT_MAX": 6.600,
+        "LT_MIN": 1.200,
+        "LWD-Region": "AT-07-14-05 Serleskamm",
+        "RH": 100.000,
+        "TD": 3.100,
+        "WG": 2.099,
+        "WG_BOE": 14.616,
+        "WR": 348.096,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Elferspitze Windstation",
+        "operator": "LWD Tirol",
+        "plot": "elferspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "f11d27b6-1baa-52da-9a8b-e17af22e711d",
+      "geometry": {
+        "coordinates": [
+          12.621001113774,
+          47.4697854069781,
+          960.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 13.700,
+        "LT_MAX": 15.800,
+        "LT_MIN": 7.900,
+        "LWD-Region": "AT-07-06 Wilder Kaiser - Waidringer Alpen",
+        "date": "2023-05-08T15:40:00+02:00",
+        "name": "Hochfilzen",
+        "operator": "HD Tirol",
+        "plot": "hochfilzen2"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "f419eaa5-1b35-229a-ab81-919b01b2a4b0",
+      "geometry": {
+        "coordinates": [
+          10.408832,
+          47.101683,
+          2636.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 2.700,
+        "LT_MAX": 5.900,
+        "LT_MIN": -0.100,
+        "LWD-Region": "AT-07-11 Östliche Verwallgruppe",
+        "RH": 100.600,
+        "TD": 2.784,
+        "WG": 2.887,
+        "WG_BOE": 9.072,
+        "WR": 41.330,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Kappl Großgfallkopf",
+        "operator": "LWD Tirol",
+        "plot": "kappl_spidur_alpe"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "f4abe0b6-f787-51b0-4e1a-9cf19b907f0f",
+      "geometry": {
+        "coordinates": [
+          11.120722,
+          47.153491,
+          2111.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 268.000,
+        "HS": 24.400,
+        "HSD24": -4.572,
+        "HSD48": -10.897,
+        "HSD72": -16.650,
+        "LT": 3.000,
+        "LT_MAX": 5.800,
+        "LT_MIN": 1.500,
+        "LWD-Region": "AT-07-14-03 Sellrain - Alpeiner Berge",
+        "RH": 101.600,
+        "TD": 3.224,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Lampsenspitze Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "lampsenspitze"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "f52c0d53-744e-50b3-397e-479d507d9145",
+      "geometry": {
+        "coordinates": [
+          11.0936658639412,
+          46.9055411326866,
+          2443.4
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.100,
+        "LT_MAX": 10.300,
+        "LT_MIN": 0.300,
+        "LWD-Region": "AT-07-21 Gurgler Gruppe",
+        "date": "2023-05-08T15:45:00+02:00",
+        "name": "Timmelsjoch",
+        "operator": "HD Tirol",
+        "plot": "timmelsjoch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "f754edd8-821c-3833-dee7-5ce2b2535dcf",
+      "geometry": {
+        "coordinates": [
+          10.267085,
+          47.101676,
+          1985.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 7.700,
+        "LT_MAX": 12.100,
+        "LT_MIN": 4.400,
+        "LWD-Region": "AT-07-10 Westliche Verwallgruppe",
+        "RH": 86.400,
+        "TD": 5.577,
+        "WG": 3.256,
+        "WG_BOE": 11.880,
+        "WR": 30.274,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Salzboden",
+        "operator": "LWD Tirol",
+        "plot": "rendl"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "f84aa6cb-8482-27d0-6461-ba971394c7d8",
+      "geometry": {
+        "coordinates": [
+          11.648987,
+          47.089717,
+          2518.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.100,
+        "LT_MAX": 7.800,
+        "LT_MIN": 0.800,
+        "LWD-Region": "AT-07-15 Westliche Tuxer Alpen",
+        "RH": 99.300,
+        "TD": 1.003,
+        "WG": 14.145,
+        "WG_BOE": 19.728,
+        "WR": 98.694,
+        "date": "2023-05-08T07:00:00+02:00",
+        "name": "Tuxerjoch Windstation",
+        "operator": "LWD Tirol",
+        "plot": "tuxerjoch"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "f9e3a1c9-b52c-7cc2-2851-7647c6bd4cdc",
+      "geometry": {
+        "coordinates": [
+          12.6185694825979,
+          46.7082238283966,
+          1400.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 10.900,
+        "LT_MAX": 12.500,
+        "LT_MIN": 7.600,
+        "LWD-Region": "AT-07-29 Lienzer Dolomiten",
+        "N24": 3.200,
+        "N48": 10.700,
+        "N6": 1.300,
+        "N72": 15.800,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Obertilliach",
+        "operator": "HD Tirol",
+        "plot": "obertilliach"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "fbbef158-d245-78ab-596e-0528b80e2ddc",
+      "geometry": {
+        "coordinates": [
+          11.282068,
+          47.178394,
+          2340.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 3.400,
+        "LT_MAX": 7.400,
+        "LT_MIN": 2.000,
+        "LWD-Region": "AT-07-14-04 Kalkkögel",
+        "RH": 100.600,
+        "TD": 3.485,
+        "WG": 3.770,
+        "WG_BOE": 8.424,
+        "WR": 144.178,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Axams Hoadl",
+        "operator": "LWD Tirol",
+        "plot": "axamer_lizum"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "fc7b4126-7c6b-109d-75ad-a3b9eff3da44",
+      "geometry": {
+        "coordinates": [
+          11.15541667,
+          47.099611,
+          2846.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "LT": 1.300,
+        "LT_MAX": 4.000,
+        "LT_MIN": -0.800,
+        "LWD-Region": "AT-07-14-03 Sellrain - Alpeiner Berge",
+        "RH": 99.900,
+        "TD": 1.286,
+        "WG": 0.322,
+        "WG_BOE": 6.228,
+        "WR": 188.318,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Franz-Senn-Hütte Horntaler Spitzl",
+        "operator": "LWD Tirol",
+        "plot": "franz_senn_huette"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "fd2869c0-9370-7a92-55f3-b6c7e41df9e4",
+      "geometry": {
+        "coordinates": [
+          12.324461001009,
+          47.5494860272274,
+          1265.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "HS": 0.000,
+        "HSD24": 0.000,
+        "HSD48": 0.000,
+        "HSD72": 0.000,
+        "LT": 11.900,
+        "LT_MAX": 15.900,
+        "LT_MIN": 8.700,
+        "LWD-Region": "AT-07-06 Wilder Kaiser - Waidringer Alpen",
+        "N24": 0.700,
+        "N48": 2.400,
+        "N6": 0.700,
+        "N72": 22.300,
+        "date": "2023-05-08T15:00:00+02:00",
+        "name": "Gaudeamushütte",
+        "operator": "HD Tirol",
+        "plot": "gaudeamushutte"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "fe199fdd-f537-3afe-ae58-363e843c3957",
+      "geometry": {
+        "coordinates": [
+          10.565901,
+          46.891628,
+          2500.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 626.000,
+        "HS": 72.800,
+        "HSD24": -1.950,
+        "HSD48": -7.502,
+        "HSD72": -11.324,
+        "LT": 2.700,
+        "LT_MAX": 6.500,
+        "LT_MIN": -0.100,
+        "LWD-Region": "AT-07-19 Glockturmgruppe",
+        "OFT": -0.200,
+        "RH": 94.800,
+        "TD": 1.952,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Valdafur",
+        "operator": "LWD Tirol",
+        "plot": "valdafur"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ff171235-3d0f-cadc-9630-d5419649c86c",
+      "geometry": {
+        "coordinates": [
+          10.853352,
+          47.386114,
+          1841.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "GS_O": 131.000,
+        "HS": 13.000,
+        "HSD24": -5.900,
+        "HSD48": -14.650,
+        "HSD72": -22.433,
+        "LT": 4.000,
+        "LT_MAX": 9.500,
+        "LT_MIN": 1.900,
+        "LWD-Region": "AT-07-02-02 Östliche Lechtaler Alpen",
+        "OFT": 4.600,
+        "RH": 105.500,
+        "TD": 4.763,
+        "date": "2023-05-08T15:50:00+02:00",
+        "name": "Grubigstein Schneestation",
+        "operator": "LWD Tirol",
+        "plot": "grubigstein"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
